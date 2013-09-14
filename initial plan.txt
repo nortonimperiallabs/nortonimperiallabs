@@ -1,0 +1,57 @@
+0. find meeting room, close to transit, for a Tuesday after the second week of October and following 4? Tuesdays
+a. do press to get people to meeting
+first. have meeting
+
+initial meeting agenda:
+0. intros
+	0.  small deck, who max is, model in mind, base class rules
+	a.  explain mission in mind, smart goal, minimum viable space
+	first. other considerations not core until doors open and cashflow positive
+	prime. this is the first of many meetings (~4)
+	alpha. we're all in this together, do-ocracy
+		0. can't assign work, can ask for help
+		a. constant comm flow - irc, pref; emails less so
+		prime. follow hackerspace design patterns - http://hackerspaces.org/wiki/Design_Patterns
+	init. ask if good idea, explain rest of mtg flow
+a. how?
+	0. determine name
+		0. form name team
+			0. come up with ~10 names
+		a. names come back next week for vote
+		first. artist preferred for logos
+	a. determine budget
+		0. budget drives everything
+		a. tragedy of commons
+		first. determine minimum viable monthly
+	first. with budget, find space possibilities
+		0. form space team
+		a. finalize space requirements
+			0. ~15sqft for each committed member
+			a. capabilities of space?
+				0. haz machine shop - hard side?
+				a. haz lounge/computer area - soft side?
+				first. bathroom.  not core, suprisingly.
+				prime. surrounding area/food choices, transit, security
+				alpha. storage of projects?
+	prime. write by-laws
+		0. probably steal them
+		a. refer to hsc laws
+		first. finish in a couple of weeks
+	alpha. do website
+		0. spa preferred - no one will keep it up
+		a. buy domain for next week
+		prime. form web team.
+	init. legal.
+		0. form llc
+		a. bank acct
+		prime. insurance.  totes imports.
+first. establish timeline
+	0. ideally, new year
+	a. holidays buy time
+	first. get to space as fast as possible, keep momentum
+	alpha. once space open, hold elections, form management team
+prime. establish mtg schedule
+	0. spoiler: it's Tuesdays
+	a. initial mtg format will change
+	first. each team report back, delegate rpt if necessary
+alpha. q & a
