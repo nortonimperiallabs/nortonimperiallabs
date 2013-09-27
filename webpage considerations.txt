@@ -13,5 +13,6 @@ also helps with 'no sleeping'
 --contact info
 --meeting notes
 --membership details
+--membership payment and donations
 
 mostly, we want a full hands off cheep as hell CMS
