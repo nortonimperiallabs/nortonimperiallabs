@@ -1,11 +1,10 @@
 sfhackerspace
 =============
 
-stuff for the new San Francisco hackerspace they keep nagging me to start
+We're starting another hackerspace in San Francisco!  Our initial formation meeting is 11/12/13 at the Github offices at 7PM!
 
-write copy about where, how
+GitHub is at 275 Brannan St, San Francisco, CA 94107
+
+Later I'll write the agenda here.  Also, a Tito.
 
 #sfhackerspace on freenode
-
-submitted to https://community.github.com/ for a room 11/12/13 and two tuesdays after
-10/9/13 github replied, we have 11/12, maybe 11/19 as well.  they'll do checkin and drinks, so we'll need a Tito
