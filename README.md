@@ -9,6 +9,6 @@ Right now we have drafts of the new space bylaws, and the harrassment policy - t
 
 My goals for this first meeting are to discover whom among us is keen to help, what they are keen to help with, and between all of us how we can keenly proceed to opening the doors.  We'll probably also come up with a strategy for naming, and a strategy for logo-ing.  The overall direction, culture, etc, will probably come up to a degree, but may be left for a second longer-form meeting in deference to the main purpose of this meeting, let's get started.
 
-Let's get started.  Click up the Tito here, and we'll see you 11/12/13 @ 7P at Github!
+Let's get started.  Click up the Tito <a href="https://tito.io/sfhackerspace/first-posthmeeting">here</a>, and we'll see you 11/12/13 @ 7P at Github!
 
 #sfhackerspace on freenode
