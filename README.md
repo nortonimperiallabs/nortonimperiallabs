@@ -11,4 +11,4 @@ My goals for this first meeting are to discover whom among us is keen to help, w
 
 Let's get started.  Click up the Tito <a href="https://tito.io/sfhackerspace/first-posthmeeting">here</a>, and we'll see you 11/12/13 @ 7P at Github!
 
-#sfhackerspace on freenode
+#\#sfhackerspace on freenode
