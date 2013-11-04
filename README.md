@@ -13,4 +13,6 @@ Thereby, let's get started.  Click up the Tito <a href="https://tito.io/sfhacker
 
 ##<a href="https://tito.io/sfhackerspace/first-posthmeeting">TICKETS</a> — 7:00pm 11/12/13 @ GitHub HQ 3.0
 
+<a href="https://maps.google.com/maps?q=37.7823,-122.391+(Github+HQ,+275+Brannan+St,+San+Francisco,+CA+94107)"><img alt="Staticmap?size=640x366&amp;maptype=roadmap&amp;center=37.782081%2c-122.39123999999998&amp;markers=size:mid%7ccolor:blue%7c37.7823%2c-122" height="366" src="https://maps.googleapis.com/maps/api/staticmap?size=640x366&amp;maptype=roadmap&amp;center=37.782081%2C-122.39123999999998&amp;markers=size:mid%7Ccolor:blue%7C37.7823%2C-122.391&amp;sensor=false&amp;format=png32&amp;scale=2&amp;visual_refresh=true&amp;zoom=16&amp;key=AIzaSyC9qsX58pj60d-Ga_06b40fl3YGRnxArD4" width="640"></a>
+
 ##\#sfhackerspace on freenode
