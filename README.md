@@ -7,6 +7,8 @@ We're interested in starting another general purpose hackerspace in San Francisc
 
 Right now we have drafts of the new space bylaws, and the harrassment policy - the hard stuff that isn't fun.  The fun stuff, like coming up with the new name, finding out what the budget is likely to be, and finding/starting in the new space, hasn't been done.  
 
-The next meeting time is still being determined!  Go <a href="http://doodle.com/9esfuzxzvxqssand">and fill out this Doodle</a> if you'd like to join in.
+We also have a very excited core of collaboration cohorts constructing our caper.
+
+The next meeting is on 12/9/13 @ 7PM.  Location tbd, but probably somewhere really awesome.
 
 ##\#sfhackerspace on freenode
