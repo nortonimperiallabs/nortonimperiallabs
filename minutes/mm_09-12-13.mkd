@@ -1,0 +1,128 @@
+NortonBridge , 12092013 Meeting
+===============================
+* John McAffee to be appointed president in absentia.
+
+People
+--------
+* rrix
+* robbiet480
+* asmallteapot
+* StrangeCharm
+* the_merlin
+* niacin
+* blueminder
+* (badg arrives late)
+
+Naming Discussion
+-----------------
+* Norton's Imperial Labs brought to discussion
+  * Bikeshedding starts focusing on an apostrophe
+
+Concerns that the 's is unnecessary or confusing. Bikeshedding ensues Name
+decided on Norton Imperial Lab by a vote of 4-3
+
+Infrastructure
+-------
+We have a [site](http://NortonImperialLabs.org)
+
+\#sfnil on freenode
+
+Ryan promised to bring up a wiki and mailing list over the weekend, did not
+follow through on that, beatings will commence until his morale improves SPIFF
+update coming soon, SPIFF developer currently working on rewrite and bugfix
+release
+
+Mailing list is a good thing, as long as actionable items are not coming from
+the mailing list, but from AFK
+
+MediaWiki is the least-bad option of wikisoftware. Google Sites brought
+forward as a possible option, but we'd like to self host.
+
+Robbie suggests single sign on provided by GitHub. StrangeCharm counters with
+LDAP, worries that Spiff's openID plugin may bring in issues.
+
+Github OAuth for SSO is preferred 5-3 in vote
+
+Discussion surrounding saving up for a big space, v. moving in to a small
+space to grow out of. 
+
+    small space == hard to move out of, etc. Faster we start the faster we get
+    tools and stuff big space == awesome blank canvas
+
+### Do we want to be a 501c3? #
+
+Doing 501c3 is a pain in the ass, time to get
+
+the recommendation letter is a pain, and that shouldn't keep us from Doing
+Good Things(tm). Have another space sponsor us? Al Billings suggest talking to
+the AMT board if we want to be a 501c3. Can prove to be constraining
+
+0 votes for persuing a 501c3, some interest in a California NonProfit status,
+if only so that we aren't "random shady nonprofit"
+
+* Incorporate an LCC
+* When that shows up, file for California nonprofit
+
+Discussion regarding whether we want to end up in Delaware or California? Big
+benefit towards having everything in California for small income things like
+hackerspaces
+
+* Business registraton of Norton's Imperial Lab, LLC
+* Robbie will be contacting his lawyer regarding our filing for free work and
+  counsel services, bylaw review, etc. 
+
+Brief discussion on Robbie's friend's startup oneRFP, who helps manage
+building infra offered service to NIL Formal Space Reqs ---------- No ties
+present, currently donning scarves.
+
+* Tenderloin space still available, some windows not yet broken, may still
+  have copper in the building, 281 Ellis
+* Potrero space no longer available
+
+Guy who started casewestern makerspace (badg?) felt that 4500 sqft was a big
+space for years of growth
+
+rrix notes that HeatSync Labs fit a tonne of stuff in 2500 square feet without
+any real contention [walkthrough](http://hackaday.com/2012/08/09/southwest-tour-heatsync-labs-in-mesa-arizona/).
+
+
+seems like 2750$ is a good rent zone assuming 30 members paying 100$ a month,
+StrangeCharm recommends frontloading funds using a fundraising campaign or so
+for pre-paid memberships
+
+Comfortable with funding ~3000sqft to start with. 24$/ft/year on 42floors at
+3000sqft spaces, which works out to 6000$ a month. 
+
+Suggestion of raising on Crowdtilt/Kickstarter and figure out what kind of
+space we can afford to grow in to from that. We'll need a slick video. Rewards
+include membership as well as recognition, tchotchkes, etc. 
+
+Robbie suggests moving forward on LLC as soon as possible, file with expedite,
+and have the prospective membership pay back whomever files it (StrangeCharm?)
+70$/filing, +250$ for ten day expedite (if necessary!?)
+
+- Please bring 10$ to the next meeting. StrangeCharm will be filing for LLC
+  paperwork. 
+
+Max to be Service of Process, Tom to be LLC address
+
+Robbie suggests getting back three signed and stamped copies at minimum. 
+
+Big discussion on whether we want to be a Corp or LLC, we decided on LLC.
+
+Bylaws
+---------
+
+No one will be bikeshedding the bylaws at the current
+meeting, they will be written seperately and brought to bikeshed over at the
+next meeting. 
+
+Final Thoughts
+------
+
+San Francisco Fire Credit Union, bank  account goes there once we get a
+company, Tom and Max will be signing officers
+
+Bylaws meeting next monday 16 Dec, next meeting after that 6 January 2014.
+Space to be arranged, meetings at 19:00.
+
