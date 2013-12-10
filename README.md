@@ -7,6 +7,6 @@ We're interested in starting another general purpose hackerspace in San Francisc
 
 We have a very excited core of collaboration cohorts constructing our caper.
 
-The next meeting is on 12/9/13 @ 7PM in the Mozilla offices!  Mozilla is here: https://wiki.mozilla.org/People:MozSpaces_Guidelines:San_Francisco and you could be there.
+The next meeting is on [12/16/13 @ 7PM](https://www.google.com/calendar/embed?src=3kimf44ncqdhh7eaf0e503pjhc%40group.calendar.google.com&ctz=America/Los_Angeles), location TBD!
 
-##\#sfhackerspace on freenode
+##\#SFNIL on freenode
