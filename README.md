@@ -7,6 +7,6 @@ We're interested in starting another general purpose hackerspace in San Francisc
 
 We have a very excited core of collaboration cohorts constructing our caper.
 
-The next meeting is on [12/16/13 @ 7PM](https://www.google.com/calendar/embed?src=3kimf44ncqdhh7eaf0e503pjhc%40group.calendar.google.com&ctz=America/Los_Angeles), location TBD!
+The next meeting is on [1/6/13 @ EngineYard](https://www.google.com/calendar/embed?src=3kimf44ncqdhh7eaf0e503pjhc%40group.calendar.google.com&ctz=America/Los_Angeles), location TBD!
 
 ##\#SFNIL on freenode
