@@ -1,0 +1,76 @@
+Meeting minutes, 2014-01-27
+===============
+Whereas we are gathered her at TechShop in the name of His Imperial Majesty Norton I, Emperor of these United States and Protector of Mexico, pursuant to his will, so therefore here are our discussions.
+Old Business
+------------
+## Incorporation
+* **Tom** is responsible. He has Max's signature, ready to send our paperwork to the state.
+
+## Branding
+* **Nick** has a friend interested in designing our logo. Nick is otherwise responsible for ensuring that we get one.
+* **Tom** to send Nick notes on a coat-of-arms for the logo at <nbadger1@gmail.com>.
+* Others are also invited to send Nick suggestions.
+
+## Real estate
+* **Robby** not present to report.
+
+## Governance [unit tests]
+* Please submit unit tests for our governance structure in the form of [pull request]().
+* We are no longer thinking *only* of bylaws, but also of other rules and requirements.
+
+Newish business
+---------------
+
+## Promotional video
+* We will start filming our video in March.
+* We need to produce a script, film, and edit.
+* **Nick** has volunteered to edit the script.
+Possible video suggestions:
+* A whole bunch of faces telling the camera what they want from a space.
+
+## Vision statement
+Our vision statement is:
+> Norton Imperial Labs exists to provide a space where interesting people collaborate to write on the world in the ink of their imagination.
+
+## Crowdfunding campaign
+* We are planning to run a CrowdTilt funding campaign to raise our initial capital.
+* We probably need $35k to get started.
+We anticipate the following reward tiers:
+* Tchotchke(t-shirts, stickers, &c.)
+* pre-paid memberships
+* host your event
+* spraypaint your logo on the wall
+
+## What facilities will NIL provide?
+What do you want NIL to be?
+"Disassemble my Thinkpad not on my kitchen table to where someone's just been sleeping." 
+"Don't need to rummage for 20 minutes to find a component."
+"A place to make things."
+"…to spend time with interesting people."
+"Where I can run workshops."
+"Place to work on my own projects."
+"The third place, a community."
+"Hackerspaces are the printing press of the 21st century."
+"A safe place to work on a hardware projects."
+"Run by the community."
+"Personal projects, mostly in the woodshop."
+"Learning to code more better."
+[pull requests]: https://github.com/nortonimperiallabs/sfhackerspace/blob/master/documents/bylaw%20unit%20tests.txt
+Hackerspace 5mof @ noisebridge (late feb?)
+* Danny O'brien is organizing
+* A hackerspace show & tell
+* Indended to get people familiar with what people are up to at various hackspaces in the area
+Next Meeting: 7 days hence?
+Goals:
+    * everyone shou review unit tests (on the github)
+    * Merlin will check out a site that aggregates kickstarter success rat
+Promo Video
+Define Hackerspace
+
+    personal projects
+
+reward tiers
+HackerDojo originally asked for 250k, but I think settled on 30k for the amount on their Kickstarter:
+https://www.kickstarter.com/projects/384590180/an-events-space-and-a-design-studio-for-hacker-doj
+                 
+http://www.cc.gatech.edu/news/georgia-tech-researchers-reveal-phrases-pay-kickstarter
