@@ -1,0 +1,63 @@
+SFNIL 20140106 meeting
+======================
+
+Attendance:
+
+* Badg
+* Niacin
+* Rrix
+* csquared
+
+Old Business
+===
+None
+
+New Business
+===
+
+Bylaws BYLAWS BYLAWS!
+===
+
+Badg has thoughts on adding a clause to the bylaws about IP ownership
+- New rule added to bylaws unit tests
+
+Ryan positions hangouts camera
+https://plus.google.com/hangouts/_/72cpi02fpk6s3hhil9r48q0i5c?hl=en
+
+Discussion on the dichotomy between space saying it has no IP unless it's
+explicitely granted, and then having the space ask everyone to protect their
+own things. Concerns that a lot of weird IP things builds a culture where it's
+okay to ask for NDAs and protecting their projects, rather than focusing on a
+kickass community.
+
+Max suggests that we dump that off to let people deal with things themselves
+rather than explicitely dealing with it now
+
+[Bylaws test cases](http://piratepad.net/ep/pad/view/ro.9lMoOElxEIg/latest) basically instead of
+building legalese, we build test cases that someone else can turn in to
+legalese
+
+Max has written up 48(?) of them.
+
+Six categories
+* membersihp allowed activities use of logo duties of the board harassment
+* policy
+
+(edit history of bylaws piratepad follows)
+
+Discussion points:
+* Re membership levels, discussion around sustainability versus accessibility,
+  land at the agreement that the board will have the ability per bylaws to set
+  membership dues for membership levels
+* Re closed toe shoes in space, discussion of whether this goes in policies or
+  bylaws, decision to drop that test
+* Discussion around safety killswitch (line 6), seems quite ambiguous,
+  decision to shelve it for later to come up with proper phrasing
+* Line 13 punted after much discussion about what that covers, whether it's a
+  loophole rather than dealing with the right problems, etc. 
+* Punted 16, off in the weeds discussing this one Line 30 punted, discussion
+* necessary Line 33,34 punted Discussion around who should be able to vote,
+* whetherunattending membership
+  should be allowed to vote, etc. Tabled for later meeting
+
+Bylaw test cases to go on github, pull request changes and additions
