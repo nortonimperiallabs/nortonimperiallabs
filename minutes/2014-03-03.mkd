@@ -1,0 +1,97 @@
+Minutes
+=======
+
+AGENDA: https://groups.google.com/forum/#!topic/sfhackerspace/v1OKwOPhf5g
+
+Attendees
+---------
+
+- Badg
+- rrix
+- arcon
+Blueminder apologizes for not making an appearance
+
+19:32 <+blueminder> I made a whenisgood for the fundraiser planning meeting: http://whenisgood.net/mhakcs3
+19:33 <+blueminder> Also, this was the Facebook Event with the obviously wrong date put on it that I made last week: 
+                    https://www.facebook.com/events/585439834880620/
+
+  https://groups.google.com/forum/#!topic/sfhackerspace/v1OKwOPhf5g
+
+  Old Business
+  ------------
+
+P0 Order of Business: Food
+
+- No real changes, Robie is handling calling the SoS to deal with that bullshit.
+- Badg will be putting bylaws draft pending infrastrucutre discussion
+- We should reconsider meeting night, Badg is going to put out thingy to coordinate that discussion
+
+Medium Business
+---------------
+
+MVP for Hackerspace:
+- Organizational infra
+- Bylaws
+- Task list for getting a meat space
+
+Tagline: Adam's proposed one: _An imperial proclamation for creative cooperation_
+
+Mission Statement:
+  + Norton Imperial Laboratories strives to inspire collaboration, creativity, and passion in the San Francisco community by:
+    + Fostering an open, collaborative space 
+    + Providing a safe, clean and inclusive work environment
+    + Teaching and helping others
+
+Long Business
+-------------
+
+*Punting on by-laws for now, need more people in meeting.*
+
+
+### Infrastructure ###
+
+Questions:
+* What are our ideal goals with each categeory of infra (per agenda)
+* How can we best use our tools to approximate that goal
+* Whether or not we should consider using new tools
+
+* 'Transport' infrastructure (Priority 0)
+** Discussion on hosting of wiki stuff, landed gollum + github wiki
+*** Access control, concerns that it is too early to think about this problem, let's punt until it is a problem
+*** Ease of use, ease of editing
+*** Discussion on switch to MediaWiki
+*** Meeting minutes, other permanent/single-use documents go in a git repo that gets set by group contacts, someone who is in charge of weekly meeting minutes, etc
+*** As a result, Gollum can handle the edits
+*** Bot that polls "minutes@nil.o" or something and dumps them in git repo? 
+** Discussion on mailing list v. forum software
+* Abstract Organization Infra
+** NEED bylaws
+** NEED Anti-harassment Policy
+** Need documentation on infra, what goes where, etc. What goes on wiki, what goes on git.
+*** Five layers of communication:
+**** Real-time IRC
+**** Semi-realtime mailing list
+**** Semi-permanent docs @ wiki
+**** Permanent as yet-to-be-created CMS wiki
+**** In-person meetings
+*** Yet-to-be determined project management system (PUNTING on this)
+**** Adam is going to do some work on this front for next week's meeting (ACTION ITEM)
+*** Bot in IRC that can ferry things to the other channels, and various other LoC.
+
+** Discussion on how to handle making permanent decisions until bylaws are ratified
+*** *Decree, if you have problems with what happens in a meeting, show up at the next one to change it*
+
+Action Items and Decrees
+========================
+
+* TODO Decide between forum and mailing list
+* TODO nil/nil/documents holds minutes and such (RR)
+** TODO Move wiki to nil/nil's gh wiki (RR) 
+* TODO @adambregenzer to github org (RR)
+* TODO Create readme on what documentation goes where? (RR)
+** Front page of wiki, front page of nil/nil
+* TODO Ask Tom to add me to the NFS.N static stite thing (RR)
+* TODO Work on bylaws (NB)
+* TODO Post Bylaws draft to nil/nil/documents (NB)
+* TODO Work on project management stuff (AB)
+* RR labelled as infra-czar
