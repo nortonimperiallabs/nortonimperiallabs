@@ -1,294 +1,253 @@
 PREAMBLE
 ========
-[Insert mission/vision statement here]
+
+Norton Imperial Laboratories exists to provide a space where interesting
+people collaborate to write on the world in the ink of their
+imagination.  
 
 	Section P.1:	
 	------------
-	This organization shall be known as Norton's Imperial Laboratories, Norton's Imperial Lab, or NIL for short.
+	This organization shall be known as Norton Imperial Laboratories, Norton Imperial Lab, or NIL for short.
+	
 	Section P.2:	
 	------------
-	This organization is dedicated to [mission statement]. The purposes of NIL include, but are not limited to:
-		P.2.A.	Providing necessary xxxx.
-		P.2.B.	Promoting the education of xxxx.
-		P.2.C.	Promoting the welfare of the community through xxxx.
-		P.2.D.	Providing xxxx
-
-
-
+	NIL strives to inspire collaboration, creativity, and passion in the San Francisco community by:
+		+ Fostering an open, collaborative space 
+		+ Providing a safe, clean and inclusive work environment
+		+ Teaching and helping others
  
 ARTICLE I:	GENERAL PROVISIONS
 ==============================
-	Section I.1:	
-	The governing documents of NIL are comprised of four discrete components.  In order of precedent, from superior to subordinate, they are:
-	1.A.	These Bylaws
-	1.A.1.)	Bylaws are unlimited in scope, ie they apply to the entirety of NIL's operations.
-	1.A.2.)	Bylaws concern the management of the organization itself, and not its day-to-day operations
-	1.A.3.)	The procedures for amending or altering the Bylaws shall be contained within the Bylaws document.
-	1.B.	Organization Policies
-	1.B.1.)	Policies are unlimited in scope.
-	1.B.2.)	Policies concern the operation of NIL's physical space(s) and not management of the NIL organization itself
-	1.B.3.)	The procedures for amending or altering the Policies shall be contained within the Bylaws document.
-	1.C.	Regulations
-	1.C.1.)	Regulations are limited in scope, ie they apply to a specific subset of the NIL organization.
-	1.C.2.)	Regulations concern the management of the NIL organization and not its day-to-day activities.
-	1.C.3.)	The procedures for amending or altering the Regulations shall be contained within the Bylaws document.
-	1.D.	Standard Operating Procedures (SOP)
-	1.D.1.)	SOPs are limited in scope.
-	1.D.2.)	SOPs concern day-to-day operations in a specific part of NIL's physical space(s) and not its organizational management.
-	1.D.3.)	The procedures for amending or altering the SOPs shall be contained within the Policies document.
-	Section I.2:	
-	These bylaws constitute the ultimate governing document of NIL's internal operations. They are subordinate only to applicable Local, State, and Federal laws.
-	2.A.	The Bylaws, Policies, Regulations, and Procedures shall be equally applicable to NIL and its members.
-	2.B.	The NIL organization and membership shall be jointly and/or separably culpable for violations of any and all of the Governing Documents.
-	2.C.	Any conflicting statements within these Governing Documents are to be resolved through the hierarchy of precedence established in §I.3:  the conflicting rule in the subordinate document will be considered null and void.
-	Section I.3:	
-	[Voting provisions: when is a vote required?  What voting system is used?]
-	3.A.	No voting by proxy shall be allowed.
-	3.B.	For the purpose of these Bylaws, all votes shall require a quorum of members to be present.  Likewise, the number of votes required for a motion’s success shall be calculated from the number of members present at the meeting, provided a quorum is present.
+	Section I.1:	The governing documents of NIL are comprised of four discrete components.  In order of precedent, from superior to subordinate, they are:
+		1.A.	These Bylaws
+			1.A.1.)	Bylaws are unlimited in scope, ie they apply to the entirety of NIL's operations.
+			1.A.2.)	Bylaws concern the management of the organization itself, and not its day-to-day operations
+			1.A.3.)	The procedures for amending or altering the Bylaws shall be contained within the Bylaws document.
+		1.B.	Organization Policies
+			1.B.1.)	Policies are unlimited in scope.
+			1.B.2.)	Policies concern the operation of NIL's physical space(s) and not management of the NIL organization itself
+			1.B.3.)	The procedures for amending or altering the Policies shall be contained within the Bylaws document.
+		1.C.	Regulations
+			1.C.1.)	Regulations are limited in scope, ie they apply to a specific subset of the NIL organization.
+			1.C.2.)	Regulations concern the management of the NIL organization and not its day-to-day activities.
+			1.C.3.)	The procedures for amending or altering the Regulations shall be contained within the Bylaws document.
+		1.D.	Standard Operating Procedures (SOP)
+			1.D.1.)	SOPs are limited in scope.
+			1.D.2.)	SOPs concern day-to-day operations in a specific part of NIL's physical space(s) and not its organizational management.
+			1.D.3.)	The procedures for amending or altering the SOPs shall be contained within the Policies document.
+	Section I.2:	These bylaws constitute the ultimate governing document of NIL's internal operations. They are subordinate only to applicable Local, State, and Federal laws.
+		2.A.	The Bylaws, Policies, Regulations, and Procedures shall be equally applicable to NIL and its members. [considered a contractual agreement?]
+		2.B.	The NIL organization and membership shall be jointly and/or separably culpable for violations of any and all of the Governing Documents.
+		2.C.	Any conflicting statements within these Governing Documents are to be resolved through the hierarchy of precedence established in §I.3:  the conflicting rule in the subordinate document will be considered null and void.
+	Section I.3:	[Voting provisions: when is a vote required?  What voting system is used?]
+		3.A.	No voting by proxy shall be allowed.
+		3.B.	For the purpose of these Bylaws, all votes shall require a quorum of members to be present.  Likewise, the number of votes required for a motion’s success shall be calculated from the number of members present at the meeting, provided a quorum is present.
 	
 ARTICLE II:	MEMBERSHIP
 ======================
-	Section II.1:	
-	Any [work-eligible person? Anyone at all? What restrictions if any do we want to place?] will be eligible for membership at NIL.
-	Section II.2:	
-	NIL is dedicated to providing a service to the community without discrimination or bias.  As such, NIL will not deny membership on any basis prohibited by applicable law, including but not limited to race, religion, color, sex, age, sexual orientation, national origin, status as a veteran, gender identity, or handicap.
-	Section II.3:	
-	Members of NIL must maintain their membership in good standing. Any member not meeting this requirement may be expelled from the organization for administrative reasons, upon review by [disciplinary something].  
-	3.A.	Good standing is defined as…
-	Section II.4:	
-	There shall be four member categories within NIL.  In order of rank, from highest to lowest, they are: full members, associate members, probationary members, and inactive members.  The General Membership comprises all four of these categories.
-	4.A.	Full members 
-	A Full Member is a member that has shown a manifested interest and involvement in NIL through past and present involvement.  This member:
-	4.A.1.)	Shall have met [requirements]
-	4.A.2.)	Shall have the right to [rights]
-	4.A.3.)	Shall have the privilege of [privileges]
-	4.B.	Associate members
-	An Associate Member is a member that fails to meet the requirements of a Full Member, but has nonetheless demonstrated interest and involvement in the administrative aspects of NIL.  This member: 
-	4.B.1.)	Shall have met [requirements]
-	4.B.2.)	Shall have the right to [rights]
-	4.B.3.)	Shall have the privilege of [privileges]
-	4.C.	Probationary members
-	A Probationary Member is a member that has been placed under probationary status by the [disciplinary process].  This member:
-	4.C.1.)	Shall have met [requirements]
-	4.C.2.)	Shall have the right to [rights]
-	4.C.3.)	Shall have the privilege of [privileges]
-	4.D.	Inactive members
-	An Inactive Member is a member of NIL that does not meet the requirements of any other membership category.  This member: 
-	4.D.1.)	Shall have met [requirements]
-	4.D.2.)	Shall have the right to [rights]
-	4.D.3.)	Shall have the privilege of [privileges]
+	Section II.1:	Any [work-eligible person? Anyone at all? What restrictions if any do we want to place?] will be eligible for membership at NIL.
+	Section II.2:	NIL is dedicated to providing a service to the community without discrimination or bias.  As such, NIL will not deny membership on any basis prohibited by applicable law, including but not limited to race, religion, color, sex, age, sexual orientation, national origin, status as a veteran, gender identity, or handicap.
+	Section II.3:	Members of NIL must maintain their membership in good standing. Any member not meeting this requirement may be expelled from the organization for administrative reasons, upon review by [disciplinary something].  
+		3.A.	Good standing is defined as…
+	Section II.4:	There shall be four member categories within NIL.  In order of rank, from highest to lowest, they are: full members, associate members, probationary members, and inactive members.  The General Membership comprises all four of these categories.
+		4.A.	A FULL MEMBER is a member that has shown a manifested interest and involvement in NIL through past and present involvement.  This member:
+			4.A.1.)	Shall have met [requirements]
+			4.A.2.)	Shall have the right to [rights]
+			4.A.3.)	Shall have the privilege of [privileges]
+		4.B.	An ASSOCIATE MEMBER is a member that fails to meet the requirements of a Full Member, but has nonetheless demonstrated interest and involvement in the administrative aspects of NIL.  This member: 
+			4.B.1.)	Shall have met [requirements]
+			4.B.2.)	Shall have the right to [rights]
+			4.B.3.)	Shall have the privilege of [privileges]
+		4.C.	A PROBATIONARY MEMBER is a member that has been placed under probationary status by the [disciplinary process].  This member:
+			4.C.1.)	Shall have met [requirements]
+			4.C.2.)	Shall have the right to [rights]
+			4.C.3.)	Shall have the privilege of [privileges]
+		4.D.	An INACTIVE MEMBER is a member of NIL that does not meet the requirements of any other membership category.  This member: 
+			4.D.1.)	Shall have met [requirements]
+			4.D.2.)	Shall have the right to [rights]
+			4.D.3.)	Shall have the privilege of [privileges]
 
 
 ARTICLE III:	NOMINATION, ELECTION, AND REMOVAL OF OFFICERS AND BOARD MEMBERS 
 ===============================================================================
-	Section III.1:	
-	The Executive Board of NIL is comprised solely of the five Board positions elected under these Bylaws. 
-	Section III.2:	
-	Board members shall be elected once a year.
-	2.A.	Elections will occur in [time range].  The exact date will be decided by the standing Executive Board, and notice of the date will be given with a minimum of [one month] notice.
-	2.B.	Elections must occur at a regularly-scheduled General Membership meeting.
-	2.B.1.)	Elections will be presided over by the standing Chairperson.  If the standing Chairperson is running for re-election, then:
-	2.B.1.a.)	The standing President will preside over the election of the Chairperson.
-	2.B.1.b.)	The standing Chairperson will preside over the remainder of the elections.
-	2.B.2.)	Elections will be conducted by secret ballot.  
-	2.B.2.a.)	The ballots will be counted by the individual presiding over the election (as defined in §III.2.B(1))
-	2.B.2.b.)	The ballot count will be verified by at least one other non-candidate standing Officer or Board Member.
-	2.B.2.c.)	A candidate shall be elected as per the voting procedure outlined in §I.5.
-	2.B.3.)	If a candidate is running unopposed, then a motion for a simple vote of confidence may be requested.  
-	2.B.3.a.)	The vote may be either a voice vote or a simple-majority standing vote, at the discretion of the individual presiding over the election.  
-	2.B.3.b.)	If there is a decision of no confidence, nominations for the office will be entertained, and the election will proceed as per §III.2.B(1-3).
-	2.B.4.)	All Full and Associate Members in good standing may vote in yearly elections.  Inactive and Probationary Members will not be permitted to vote.
-	2.B.5.)	The order of election shall be outlined in the NIL Regulations, subject to the following conditions:
-	2.B.5.a.)	The Chairperson is elected first, and
-	2.B.5.b.)	The Head of Operations is elected second.
-	Section III.3:	
-	Nominations for Board candidates must be submitted to the standing Executive Board at least seven days prior to voting.
-	3.A.	A single nomination of more than one person (a co-member position) shall not be allowed.
-	3.B.	A nomination must have the approval of the nominee.
-	3.C.	It is the responsibility of the Executive Board to determine eligibility of the nominees under this Constitution during the week before elections.
-	3.D.	Once eligibility is determined, the General Membership must be informed of the candidates.  This must occur at least 48 hours prior to elections.
-	3.E.	The Executive Board may not deny a nominee his/her candidacy, except as explicitly allowed in this Article.
-	3.F.	Only Full members in good standing may nominate a member for a Board position.
-	3.G.	A member may nominate himself/herself to any Board position.
-	3.H.	Should fewer than two candidates be nominated for a position, or an uncontested election receive a vote of no confidence, nominations will be accepted immediately prior to election, as per §III.7.B.
-	Section III.4:	
-	All Board nominations are subject to eligibility requirements:
-	4.A.	All Board Members must be Full Members in good standing, as defined by §II.4, for a minimum of one month proceeding the date on which they take office.  
-	4.B.	[Any other eligibility requirements?  Work authorization status?  Legal requirements?]  
-	4.C.	A member may be nominated for more than one officer position, but may not be elected to more than one position.
-	4.D.	No candidate may have been the subject of a disciplinary procedure that resulted in his/her impeachment of office or expulsion from NIL.
-	Section III.5:	
-	Board Members shall be installed at the [date or date range].  
-	5.A.	At the discretion of the standing Executive Board, transfer of powers may begin at any time following the election of the new Executive Board.
-	5.B.	Transfer of powers must incorporate a Transition Period of at least three weeks.
-	5.B.1.)	The duration of the Transition Period will be determined by the outgoing Executive Board.
-	5.B.2.)	During the Transition Period, the outgoing Board retains its authority and will have sole decision-making power.
-	5.B.3.)	During the Transition Period, the incoming Board is required to be included in the decision-making process.
-	Section III.6:	
-	Should a permanent vacancy occur on the Executive Board, 
-	6.A.	The position will be temporarily filled by a Full Member.
-	6.A.1.)	The appointee will be nominated by the Chairperson.
-	6.A.2.)	The appointee will be confirmed by a simple majority of the Executive Board.
-	6.B.	A General Membership meeting shall be convened within 30 days and a replacement Board Member will be elected.  The position will then be immediately vacated by the temporary appointee.  The election of the replacement Board Member is subject to all rules of a normal Board election except:
-	6.B.1.)	Nominations will occur at the same meeting as the election of the replacement officer.
-	6.B.2.)	It is the responsibility of the nominee to prove his/her eligibility for the officer position
-	6.B.3.)	Exceptions to eligibility requirements may be made by a unanimous decision of the Executive Board.
-	6.C.	Should the office of Chairperson become vacant, the Head of Operations will assume the position of Chairperson for the remainder of the term of office.  The vacancy in the office of Head of Operations will then be filled as per §III.6.A-B.
-	Section III.7:	
-	Removal of Board Members
-	7.A.	Any active or associate member in good standing may make a motion to remove any member of the Executive Board or other officer from his/her position. This motion, once seconded, must be ratified by a two-thirds majority vote of all Full members.
-	7.B.	Any member of the Executive Board may make a motion to remove the Chairperson or Head of Operations from office.  This motion, once seconded, must be ratified by a three-fourths majority vote of the Executive Board.
+	Section III.1:	The Executive Board of NIL is comprised solely of the five Board positions elected under these Bylaws. 
+	Section III.2:	Board members shall be elected once a year.
+		2.A.	Elections will occur in [time range].  The exact date will be decided by the standing Executive Board, and notice of the date will be given with a minimum of [one month] notice.
+		2.B.	Elections must occur at a regularly-scheduled General Membership meeting.
+			2.B.1.)	Elections will be presided over by the standing Chairperson.  If the standing Chairperson is running for re-election, then:
+				2.B.1.a.)	The standing President will preside over the election of the Chairperson.
+				2.B.1.b.)	The standing Chairperson will preside over the remainder of the elections.
+			2.B.2.)	Elections will be conducted by secret ballot.  
+				2.B.2.a.)	The ballots will be counted by the individual presiding over the election (as defined in §III.2.B(1))
+				2.B.2.b.)	The ballot count will be verified by at least one other non-candidate standing Officer or Board Member.
+				2.B.2.c.)	A candidate shall be elected as per the voting procedure outlined in §I.5.
+			2.B.3.)	If a candidate is running unopposed, then a motion for a simple vote of confidence may be requested.  
+				2.B.3.a.)	The vote may be either a voice vote or a simple-majority standing vote, at the discretion of the individual presiding over the election.  
+				2.B.3.b.)	If there is a decision of no confidence, nominations for the office will be entertained, and the election will proceed as per §III.2.B(1-3).
+			2.B.4.)	All Full and Associate Members in good standing may vote in yearly elections.  Inactive and Probationary Members will not be permitted to vote.
+			2.B.5.)	The order of election shall be outlined in the NIL Regulations, subject to the following conditions:
+				2.B.5.a.)	The Chairperson is elected first, and
+				2.B.5.b.)	The Head of Operations is elected second.
+	Section III.3:	Nominations for Board candidates must be submitted to the standing Executive Board at least seven days prior to voting.
+		3.A.	A single nomination of more than one person (a co-member position) shall not be allowed.
+		3.B.	A nomination must have the approval of the nominee.
+		3.C.	It is the responsibility of the Executive Board to determine eligibility of the nominees under this Constitution during the week before elections.
+		3.D.	Once eligibility is determined, the General Membership must be informed of the candidates.  This must occur at least 48 hours prior to elections.
+		3.E.	The Executive Board may not deny a nominee his/her candidacy, except as explicitly allowed in this Article.
+		3.F.	Only Full members in good standing may nominate a member for a Board position.
+		3.G.	A member may nominate himself/herself to any Board position.
+		3.H.	Should fewer than two candidates be nominated for a position, or an uncontested election receive a vote of no confidence, nominations will be accepted immediately prior to election, as per §III.7.B.
+	Section III.4:	All Board nominations are subject to eligibility requirements:
+		4.A.	All Board Members must be Full Members in good standing, as defined by §II.4, for a minimum of one month proceeding the date on which they take office.  
+		4.B.	[Any other eligibility requirements?  Work authorization status?  Legal requirements?]  
+		4.C.	A member may be nominated for more than one officer position, but may not be elected to more than one position.
+		4.D.	No candidate may have been the subject of a disciplinary procedure that resulted in his/her impeachment of office or expulsion from NIL.
+	Section III.5:	Board Members shall be installed at the [date or date range].  
+		5.A.	At the discretion of the standing Executive Board, transfer of powers may begin at any time following the election of the new Executive Board.
+		5.B.	Transfer of powers must incorporate a Transition Period of at least three weeks.
+			5.B.1.)	The duration of the Transition Period will be determined by the outgoing Executive Board.
+			5.B.2.)	During the Transition Period, the outgoing Board retains its authority and will have sole decision-making power.
+			5.B.3.)	During the Transition Period, the incoming Board is required to be included in the decision-making process.
+	Section III.6:	Should a permanent vacancy occur on the Executive Board, 
+		6.A.	The position will be temporarily filled by a Full Member.
+			6.A.1.)	The appointee will be nominated by the Chairperson.
+			6.A.2.)	The appointee will be confirmed by a simple majority of the Executive Board.
+		6.B.	A General Membership meeting shall be convened within 30 days and a replacement Board Member will be elected.  The position will then be immediately vacated by the temporary appointee.  The election of the replacement Board Member is subject to all rules of a normal Board election except:
+			6.B.1.)	Nominations will occur at the same meeting as the election of the replacement officer.
+			6.B.2.)	It is the responsibility of the nominee to prove his/her eligibility for the officer position
+			6.B.3.)	Exceptions to eligibility requirements may be made by a unanimous decision of the Executive Board.
+		6.C.	Should the office of Chairperson become vacant, the Head of Operations will assume the position of Chairperson for the remainder of the term of office.  The vacancy in the office of Head of Operations will then be filled as per §III.6.A-B.
+	Section III.7:	Removal of Board Members
+		7.A.	Any active or associate member in good standing may make a motion to remove any member of the Executive Board or other officer from his/her position. This motion, once seconded, must be ratified by a two-thirds majority vote of all Full members.
+		7.B.	Any member of the Executive Board may make a motion to remove the Chairperson or Head of Operations from office.  This motion, once seconded, must be ratified by a three-fourths majority vote of the Executive Board.
 
 ARTICLE IV:	OFFICERS, THE BOARD, MEMBERS, AND THEIR DUTIES
 ===========================================================
-	Section IV.1:	
-	The Officers and Board Members elected under these Bylaws collectively form the top level of management at NIL. 
-	Section IV.2:	
-	The Board Members of the organization shall be, in order from highest rank to lowest rank:
-	2.A.	Chairperson
-	2.B.	Head of Operations
-	2.C.	Head of Logistics
-	2.D.	Treasurer
-	2.E.	External Relations Director
-	Section IV.3:	
-	The Officers of the organization shall be, in order from highest rank to lowest rank:
-	3.A.	President 
-	3.B.	Chief Financial Officer (CFO)
-	3.C.	Secretary
-	Section IV.4:	
-	In the temporary absence of the Chairperson, his/her duties shall be passed to the highest-ranking available Board Member.
-	Section IV.5:	
-	Duties and Powers of All Management Personnel
-	5.A.	For the purposes of §IV.5, a manager’s superior entity is defined as:
-	5.A.1.)	For the Chairperson of the Board, the Officers
-	5.A.2.)	For the President, the Board
-	5.A.3.)	For other Board Members, the Chairperson of the Board
-	5.A.4.)	For other Officers, the President
-	5.A.5.)	For any other manager, the entity that created the manager’s position.
-	5.B.	All management personnel may, with the approval of their superior entity, delegate their responsibilities to an individual or committee. 
-	5.B.1.)	If an officer should choose to delegate his/her responsibility through another person or committee, it remains the responsibility of the officer to ensure the task’s completion.
-	5.B.2.)	Any appointed committees and/or subordinates of the manager must vacate the appointment at the end of the officer’s term at the optional request of the manager’s superior entity.
-	5.C.	All managers shall perform their duties in a professional, thorough, and dedicated manner.
-	Section IV.6:	
-	Duties and Powers of Board Members
-	6.A.	The Chairperson:
-	6.A.1.)	Shall uphold and adhere to this Constitution, and shall ensure its enforcement.
-	6.A.2.)	Shall supervise all members and committees of NIL.
-	6.A.3.)	Shall serve as the presiding officer at all meetings, except where otherwise noted in this Constitution.
-	6.A.4.)	Shall oversee the Head of Operations (Vice-President).
-	6.A.5.)	May call a special meeting of the General Membership.
-	6.A.6.)	Shall be chairperson of the Executive Board.
-	6.A.7.)	Shall be responsible for the development of NIL.
-	6.A.8.)	Shall be a member of the Disciplinary Board, as per §V.4.
-	6.B.	The Head of Operations:
-	6.B.1.)	Shall be directly subordinate to the Chairperson.
-	6.B.2.)	Shall function as the equipment and .
-	6.B.3.)	Shall conduct monthly inspections and cleaning of NIL equipment and vehicles.
-	6.B.4.)	Shall ensure the maintenance and supervision of any vehicles owned or operated by NIL.
-	6.B.5.)	Shall notify the Equipment Manager of any equipment shortages or requirements of which he/she is made aware.
-	6.B.6.)	Shall supervise all assigned Shift Officers on regular shifts.
-	6.B.7.)	Shall be the designated Infection Control officer for all regular crews.
-	6.B.8.)	Shall be a member of the Disciplinary Board, as per §V.4.
-	6.C.	The Head of Logistics:
-	6.C.1.)	Shall coordinate crews for all events and activities for which NIL charges a fee, including but not limited to:
-	6.C.1.a.)	EMS standby for large events.
-	6.C.1.b.)	CPR classes offered to any persons other than NIL members.
-	6.C.2.)	Shall ensure that every external operations crew consists of at least two persons.
-	6.C.2.a.)	If this crew is performing EMS standby for an event, it must be staffed as per §IV.6.B(2)(a).
-	6.C.2.b.)	If this crew is instructing a NIL CPR class, then only one member need be certified as a CPR instructor, except where otherwise required by law.
-	6.C.2.c.)	All crews must meet or exceed the staffing requirements for a Volunteer EMS Organization, as codified in the Ohio Revised Code.
-	6.C.3.)	Shall notify the Equipment Manager of any equipment shortages or requirements of which he/she is made aware.
-	6.C.4.)	Shall supervise all Shift Officers assigned to an external operation.
-	6.C.5.)	Shall be the designated Infection Control officer for all crews assigned to an external operation.
-	6.C.6.)	Shall be a member of the Disciplinary Board, as per §V.4.
-	6.D.	The Treasurer:
-	6.D.1.)	Shall oversee all matters of Quality Assurance, and be responsible for all improvements thereof.
-	6.D.2.)	Shall ensure that every Incident, Call, or Service Rendered is adequately documented.
-	6.D.3.)	Shall review the documentation of every crew.
-	6.D.3.a.)	Should the documentation be deemed inadequate, it will be returned to the Shift Officer responsible for the inadequate documentation.
-	(6.D.3.a.i)	A written explanation of the inadequacy will be provided.
-	(6.D.3.a.ii)	The Shift Officer will then be responsible for correcting the documentation and re-submitting it to the Quality Assurance and Service Improvement Director.
-	6.D.3.b.)	Should the documentation be deemed adequate, it will be properly and securely stored.
-	6.D.4.)	Shall review the conduct of a crew on call, and if necessary, initiate a Run Review to address any problems with patient care:
-	6.D.4.a.)	Run Reviews will not be considered a disciplinary action, but a record of the review will be kept in the crew member’s personnel file.
-	6.D.4.b.)	A run review will be presided over by the QA/SI Director and the Training Director.  Either the External Operations Director or the Shift Supervisor shall also be present, depending on the nature of the shift (internal or external).
-	6.D.5.)	Shall annually review the Standard Operating Procedures and Patient Care Guidelines:
-	6.D.5.a.)	He/She shall ensure these documents are complete, effective, clear in meaning, and up-to-date.
-	6.D.5.b.)	This review shall occur during the month of February.
-	6.D.5.c.)	Should he/she deem these documents to be unsatisfactory, he/she shall recommend changes to the Chairperson at the first meeting of the Executive Board in the month of March.
-	6.D.6.)	Shall be the designated Privacy Official of all crews.
-	6.D.7.)	Shall keep and publish statistics on NIL:
-	6.D.7.a.)	An Annual Review will be published for every academic year, no later than October 15 of the following Academic Year.
-	6.D.7.b.)	A Semester Review will be published for every semester, no later than 3 months after the last day of regular service for that semester.
-	6.D.7.c.)	All publications will be subject to the approval of the Public Relations Director.
-	6.D.8.)	Shall be the Chairperson of the Disciplinary Board, as per §V.4 and §V.5.
-	6.E.	The External Affairs Director:
-	6.E.1.)	Shall be responsible for all NIL public relations, and shall serve as the voice of NIL to the general public.
-	6.E.2.)	Shall be responsible for all advertising, recruiting, and public external communications conducted by NIL.
-	6.E.3.)	Shall coordinate NIL’ involvement in National EMS Week.
-	6.E.4.)	Shall be the chairperson of NIL’ delegation to the National Collegiate EMS Foundation Conference.
-	6.E.5.)	Shall be responsible for all communications and reports to the Undergraduate Student Government.
-	6.E.6.)	Shall be responsible for all NIL publications.
-	6.E.7.)	Shall maintain the NIL website. 
-	Section IV.7:	
-	Duties and Powers of Officers
-	7.A.	The President:
-	7.A.1.)	Shall uphold and adhere to this Constitution, and shall ensure its enforcement.
-	7.A.2.)	Shall supervise all members and committees of NIL.
-	7.A.3.)	Shall act as the Director of Logstics for NIL.
-	7.A.4.)	Shall be responsible for the development of NIL.
-	7.A.5.)	Shall be a member of the Disciplinary Board, as per §V.4.
-	7.A.6.)	Shall be able and willing to assume the duties and responsibilities of the Chairperson in the event that he/she becomes temporarily or permanently unable or unwilling to perform his/her duties, or is removed from office in accordance with this Constitution.
-	7.B.	The Chief Financial Officer:
-	7.B.1.)	Shall maintain a current budget, itemized by category.
-	7.B.2.)	Shall allocate and budget funds to members of the Executive Board.
-	7.B.3.)	Shall be responsible for all communications and interactions with disbursement personnel in the Student Activities office.
-	7.B.4.)	Shall be responsible for all NIL fundraising, and shall act as an advocate of NIL in the procurement of funds.
-	7.B.5.)	Shall be responsible for the financial well-being of NIL.
-	7.B.6.)	
-	7.C.	The Secretary:
-	7.C.1.)	Shall take minutes at all General Membership meetings.
-	7.C.2.)	Shall take minutes at all Executive Board meetings.
-	7.C.3.)	Shall make all minutes available to the General Membership, except where provided under §VI.3.C-D.
-	7.C.4.)	Shall record the member attendance at all General Membership and Executive Board meetings.
-	7.C.4.a.)	This shall be made available to the Membership Director for membership status purposes.
-	7.C.4.b.)	This shall be considered sensitive information.
-	7.C.5.)	Shall maintain a current list of NIL members, including at least the following information:
-	7.C.5.a.)	Membership status.
-	7.C.5.b.)	Level of training.
-	7.C.5.c.)	Contact information.
-	7.C.5.d.)	Which crews, if any, the member serves on-shift.
-	7.C.5.e.)	Attendance at meetings.
-	7.C.6.)	Shall maintain the personnel files of all NIL on-shift personnel, which shall, at a minimum, include:
-	7.C.6.a.)	Level of training, including expiration date and copies of any certificates held.
-	7.C.6.b.)	If applicable, a record of Driver Training.
-	7.C.6.c.)	A copy of the member’s Criminal Background Check, HIPPA Form, and Sexual Harassment Policy Form..
-	7.C.6.d.)	A copy of the member’s state ID card or driver’s license.
-	7.C.6.e.)	A copy of the member’s CWRU Student ID.
-	7.C.6.f.)	A copy of any evaluations or supplemental training received by the student.
-	7.C.7.)	Shall make the Membership List, as described in §IV.7.B(1), available to the General Membership.
-	7.C.8.)	Shall maintain the strict confidentiality of all NIL personnel files.
-	7.C.8.a.)	Only the Executive Board will be allowed access to these files.
-	7.C.8.b.)	A member may request access to his/her own file, but this request must be submitted in writing to the Membership Director and approved by a three-fifths vote of the Executive Board.
-	7.C.9.)	Shall be a substitute member of the Disciplinary Board, as per §V.5.E. 
-
+	Section IV.1:	The Officers and Board Members elected under these Bylaws collectively form the top level of management at NIL. 
+	Section IV.2:	The Board Members of the organization shall be, in order from highest rank to lowest rank:
+		2.A.	Chairperson
+		2.B.	Head of Operations
+		2.C.	Head of Logistics
+		2.D.	Treasurer
+		2.E.	External Relations Director
+	Section IV.3:	The Officers of the organization shall be, in order from highest rank to lowest rank:
+		3.A.	President 
+		3.B.	Chief Financial Officer (CFO)
+		3.C.	Secretary
+	+ Explicit minimization of conflict of interest
+	Section IV.4:	In the temporary absence of the Chairperson, his/her duties shall be passed to the highest-ranking available Board Member.
+	Section IV.5:	Duties and Powers of All Management Personnel
+		5.A.	For the purposes of §IV.5, a manager’s superior entity is defined as:
+			5.A.1.)	For the Chairperson of the Board, the Officers
+			5.A.2.)	For the President, the Board
+			5.A.3.)	For other Board Members, the Chairperson of the Board
+			5.A.4.)	For other Officers, the President
+			5.A.5.)	For any other manager, the entity that created the manager’s position.
+		5.B.	All management personnel may, unless vetoed by their superior entity, delegate their responsibilities to an individual or committee. 
+			5.B.1.)	If an officer should choose to delegate his/her responsibility through another person or committee, it remains the responsibility of the officer to ensure the task’s completion.
+			5.B.2.)	Any appointed committees and/or subordinates of the manager must vacate the appointment at the end of the officer’s term at the optional request of the manager’s superior entity.
+		5.C.	All managers shall perform their duties in a professional, thorough, and dedicated manner.
+	Section IV.6:	Duties and Powers of Board Members
+		6.A.	The Chairperson:
+			6.A.1.)	Shall uphold and adhere to these Bylaws.
+			6.A.2.)	Shall supervise all members and committees of NIL.
+			6.A.3.)	Shall serve as the presiding officer at all board meetings, except where otherwise noted in this Constitution.
+			+ Administers the board
+			+ Serves as liaison between membership and officers
+			+ The general purpose polymath monkey.  Makes sure stuff gets done to the best of our abilities.
+		6.B.	The Head of Operations:
+			6.B.1.)	Shall be directly subordinate to the Chairperson.
+			+ Responsible for the physical operation of the space
+			+ Machine requirements, maintenance, cleaning schedules, etc
+			+ Physical access control
+			+ Notifies head of logistics of any specially-required items
+		6.C.	The Head of Logistics:
+			6.C.3.)	Shall notify the Equipment Manager of any equipment shortages or requirements of which he/she is made aware.
+			6.C.4.)	Shall supervise all Shift Officers assigned to an external operation.
+			+ "Quartermaster" -- Responsible for day-to-day organizational logistics of the space
+			+ The go-to guy for purchasing agency
+			+ Responsible for assessing and ordering daily needs, like office supplies, TP, etc
+		6.D.	The Treasurer:
+			+ Fundraising, budgeting, risk assesment, etc
+			+ Makes sure we have enough money to accomplish our mission
+		6.E.	The External Affairs Director:
+			6.E.1.)	Shall be responsible for all NIL public relations, and shall serve as the voice of NIL to the general public.
+			6.E.2.)	Shall be responsible for all advertising, recruiting, and public external communications conducted by NIL.
+			+ The buck stops here for external communications.
+			+ Press releases, PR, investor statements, enforcing logo usage policy, etc
+	Section IV.7:	Duties and Powers of Officers
+		7.A.	The President:
+			7.A.1.)	Shall uphold and adhere to this Constitution, and shall ensure its enforcement.
+			+ Assists (as a subordinate) board chairperson with administration
+			+ Ensures that governing documents (bylaws, policies, etc) are being followed
+			+ Liaison with legal entities
+			+ (Legal requirements from state/fed?)
+		7.B.	The Chief Financial Officer:
+			7.B.1.)	Shall be responsible for the financial well-being of NIL.
+			+ Primarily reactive - bookkeeping, fiscal policy, auditing, etc
+			+ Makes sure we know how much money we actually have
+			+ (Legal requirements from state/fed?)
+		7.C.	The Clerk:
+			7.C.1.)	Shall record minutes at all General Membership meetings.
+			7.C.2.)	Shall record minutes at all Board meetings.
+			7.C.3.) Shall record anonymous vote tallies at General Membership meetings.
+			7.C.4.) Shall record attributed vote tallies at Board meetings, or anonymous tallies only as provided under [need a section limiting closed sessions of the board].
+			7.C.3.)	Shall make all records available to the General Membership, except where provided under [need a section limiting closed sessions of the board].
+			7.C.5.)	Shall maintain a current list of NIL members.
+				7.C.5.a.) Part of the membership list will be made available to the entire membership.  At a minimum, this will contain:
+					7.C.5.a.i.)	The member's name
+					7.C.5.a.ii.)	At least one point of contact
+					7.C.5.a.iii.)	The member's membership status
+				7.C.5.b.) The remainder of the membership list may be kept access-restricted.
+				7.C.5.b.) An individual may always request access to his/her own full file.
+			7.C.6.)	Shall maintain all NIL personnel files.
+				7.C.6.a.) Personnel files will be access-restricted.
+				7.C.6.b.) An individual may always request access to his/her own file.
+			+ Crosses T's and dots the I's
+			+ Makes sure all of our paperwork is done and done correctly
+			+ Keeps minutes at all official meetings
+			+ Is responsible for submitting paperwork required by state
+			+ Tracks membership lists, membership status, etc
+	Section IV.8:	Duties and Powers of the Membership
+		+ "Bill of rights"
+		+ ???
 
 ARTICLE V:	AMENDMENTS 
 =======================
-	Section VII.1:	
-	Amendments to this Constitution must be submitted in writing, signed by at least three Full members, and submitted to the Executive Board.  
-	1.A.	The Executive Board need not approve of these changes;  however, the Board must make the proposed amendment(s) available to all active, associate, and probationary members in a timely fasion.
-	1.B.	If the Executive Board fails to complete the requirements of §VI.3.A within one month of amendment submission, then the author may circulate the proposed amendment(s) at his/her discretion.
-	1.C.	Provided at least six days have elapsed since circulation of the proposed amendment(s), they shall then be read, discussed, and voted upon at the next General Membership meeting as per §I.3.
-	1.D.	A three-quarters vote of all active, associate, and probationary members present shall be necessary to pass the amendment.
-	Section VII.2:	
-	At any General Membership meeting where proposed constitutional amendment(s) are voted upon, all procedures concerning the proposed amendment(s) must, without exception, be conducted under Robert’s Rules of Order.
-	2.A.	The author of the proposed amendment(s) will preside over the discussion and is forbidden from voting on the amendment.
-	2.B.	The Chairperson will only vote under the following circumstances:
-	2.B.1.)	If the addition of his/her vote would constitute a three-quarters majority, and therefore pass the proposed amendment(s), and
-	2.B.2.)	If the Chairperson is not the author of the proposed amendment(s).
-	Section VII.3:	
-	An amendment need not be passed to update the logo, letterhead, or formatting of the Constitution.  This may instead be accomplished through a simple majority decision of the Executive Board.
-	Section VII.4:	
-	The Faculty Advisor must be notified of any amendments made to this Constitution.
-
+	+ In all cases, proposing party must notify other parties
+	+ In all cases, "approval delay" is a required maximum waiting period for action
+		+ Acknowledgement **must** be given by board and officers by end of period
+		+ Approval may be given by end of period
+			+ Failed/lacking approval by end of period implies denial
+			+ Forced approval then granted 1/2 period for action
+		+ Veto may be given by end of period
+			+ Failed/lacking veto implies passage
+			+ Override then granted 1/2 period for action
+	+ Bylaws amendments: 3 options
+		1 Board may propose by majority decision
+			+ Officers must majority approve
+				+ Members may supermajority force approval
+			+ Members may majority veto
+				+ Officers may unanimously override
+		2 Officers may propose by majority decision
+			+ Board may majority veto
+				+ Members may supermajority override
+			+ Members must majority approve
+				+ Board may unanimously force approval
+		3 Members may propose by supermajority decision
+			+ Board may majority veto
+				+ Officers may unanimously override
+			+ Officers may supermajority veto
+				+ Board may unanimously override
+	+ Policies amendments: 3 options
+		1 Board may propose by majority decision
+			+ Officers may majority veto
+			+ Members may majority veto
+		2 Officers may propose by majority decision
+			+ Board may majority veto
+			+ Members may majority veto
+		3 Members may propose by majority decision
+			+ Requires acknowledgement of both board and officers
+			+ Board may majority veto
+			+ Officers may majority veto
+	+ (Amendment processes for regulations and procedures are contained in the policies document)     

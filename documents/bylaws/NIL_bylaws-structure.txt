@@ -68,9 +68,12 @@ Bylaws
 			+ Head of operations
 				+ Responsible for the physical operation of the space
 				+ Machine requirements, maintenance, cleaning schedules, etc
+				+ Physical access control
+				+ Notifies head of logistics of any specially-required items
 			+ Head of logistics
-				+ Responsible for day-to-day organizational logistics of the space
-				+ Card access, membership lists, membership status, etc
+				+ "Quartermaster" -- Responsible for day-to-day organizational logistics of the space
+				+ The go-to guy for purchasing agency
+				+ Responsible for assessing and ordering daily needs, like office supplies, TP, etc
 			+ Treasurer
 				+ Fundraising, budgeting, risk assesment, etc
 				+ Makes sure we have enough money to accomplish our mission
@@ -92,6 +95,7 @@ Bylaws
 				+ Makes sure all of our paperwork is done and done correctly
 				+ Keeps minutes at all official meetings
 				+ Is responsible for making those minutes available to whatever parties have read access
+				+ Tracks membership lists, membership status, etc
 	Duties and Responsibilities of the Membership
 	---------------------------------------------
 		+ "Bill of rights"
