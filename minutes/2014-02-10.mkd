@@ -1,0 +1,60 @@
+SFNIL 2014-02-10
+================
+
+Summary of previous meeting
+---------------------------
+
+* LLC is WIP, cost was 120$, we should give flamsmark monies
+* Scope applicability of bylaws documents, discussed so that certain things are easier to amend than others
+* Quick start on branding, need logo but don’t have much direction and such
+* A bit about starting discussion on crowd funding on tasks needed to make a space happen
+
+ Business
+
+* Badg is working on draft based on old EMS bylaws that he wrote:
+* four documents
+   * Bylaws, applies to organizational structures, positions, board members, etc
+   * Policies, broad scope, applies to core culture of the org, but is easier to change than bylaws
+   * Procedures, day to day in physical space, safety procedures, etc, easy to change and evolve for the board to change.
+   * Regulations, less important than policies but still concern org. Example: how to handle large budget line-items like tools and equipment, eventual employee compensation. More important right now to spell out its existence
+* Question for flamsmark: Can we have a copy of the filing docs.
+* need to move riseup pad to wiki, rrix will own that. (DONE!)
+* branding
+   * Badg is working with a friend on branding considerations
+   * Tagline idea: “Create, Collaborate, Commiserate”
+   * We need a meeting next week specifically to nail down branding so that we can start work on crowdfunding
+      * One of us will create a mailing list thread and throw down for tagline, longer mission statement, fonts(?), color palette
+   * Real Estate
+      * Kalin came backs with more real estate ideas
+      * List may or may not be on mailing list, robie will check
+
+Oldish/newish business
+----------------------
+
+* Robie’s friend Scott offered to help us on crowd funding video
+   * Will be out of country March 1-30, may not work for our needs
+* Need action plan for crowd funding
+   * Robie has a bunch of stuff on the github issue tracker, things that need to happen before we can crowd fund, banking, legal, etc. Do not block creating other assets though.
+      * Crowdtilt needs from us: bank account, blueminder will verify we need more
+   * BLUEMINDER ARRIVES
+   * blueminder tells us we will have no fees, including credit card stuff
+   * This is not the right venue to handle this, though. Saturday or Sunday all day event to crank through this stuff.
+      * Blueminder proposes creating a Facebook even, set the event to this weekend and let people bitch long enough to change it. BLUEMINDER WILL DO THIS
+      * Can be done remotely as well
+   * Crowdhoster suggested by Robie, quickly tabled until we know more about our available bandwidth
+
+New Business
+------------
+
+* Need to organize our resources better
+   * We should consolidate things and document
+   * IRC bot that posts/retrieves from mailing list?
+* Need meeting spot, meeting time.
+   * Robie offers Runway
+   * Blueminder offers Crowdtilt as secondary
+   * Monday, 19:00, confirm with others by Friday
+
+Action Items:
+
+* Wiki editing details for rrix
+* Blueminder will create Facebook event to organize crowdfunding thing
