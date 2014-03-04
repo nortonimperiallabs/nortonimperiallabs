@@ -1,0 +1,143 @@
+####### Proposed document structure #######
+
+Bylaws
+======
+	Preamble
+	--------
+		+ Nomenclature
+		+ Mission, vision, etc
+		
+	General (includes some required fields, ex "policies must include sexual harassment policy")
+	--------------------------------------------------------------------------------------------
+		+ Bylaws			 O|		Internal organizational structure (think "constitution")
+		+ Policies		 	 O|		Broad scope semi-rigid "rules". Easier to amended (think "fed laws")
+		+ Procedures		  /\O	Limited scope "rules" (ex safety procedures in woodshop)
+		+ Regulations		O/ 		Limited scope organizational things (large budget line items, salaries, etc)
+		
+		+ Hierarchy of documents (Bylaws 	->	Policies	->	Procedures)
+								  (							->	Regulations)
+		
+		+ Voting systems and voting rules
+			+ Range voting, ranked choice, etc
+			+ Must accommodate both binary go/no go decision votes and 3+ option "election" votes
+				+ Need not necessarily use the same strategy for both
+				+ EX could do cardinal ratings for election and simply plurality approval for go/nogo
+		
+	Membership
+	----------
+		+ Eligibility
+		+ Categories (includes rights and privileges of each category, incl voting rights)
+			+ Full
+			+ Associate
+			+ Probationary
+			+ Inactive
+	
+	Nomination, election, and removal of officers
+	---------------------------------------------
+		+ Board
+			+ Elected by membership on a regular (yearly?) basis
+			+ Removal:
+				+ Resignation
+				+ Term length
+				+ Limit max number of terms?
+				+ Impeached by unanimous vote of officers, requires majority approval of members
+				+ Impeached by supermajority of members, requires majority approval of officers
+		+ Officers
+			+ Elected/selected by board
+				+ Must be approved by majority of members
+				+ Once elected, serve until removed				
+			+ Removal
+				+ Resignation
+				+ Limit max duration of term?
+				+ Impeached by supermajority of members, board may only unanimously veto
+	Duties and Responsibilities of Board & Officers
+	--------------------------
+		+ General duties and powers of "managers" (incl board and officers and delegated)
+		+ Definition of "your superior entity" (some limited powers of oversight, determines succession, etc)
+			+ For board chairperson, the officers
+			+ For president, the board
+			+ For other board members, chairperson
+			+ For other officers, the president
+			+ For any other delegated manager, whoever created the position
+		+ Explicit minimization of conflict of interest
+		+ Board
+			+ Chair
+				+ Administers the board
+				+ Serves as liaison between membership and officers
+				+ The general purpose polymath monkey.  Makes sure stuff gets done to the best of our abilities.
+			+ Head of operations
+				+ Responsible for the physical operation of the space
+				+ Machine requirements, maintenance, cleaning schedules, etc
+			+ Head of logistics
+				+ Responsible for day-to-day organizational logistics of the space
+				+ Card access, membership lists, membership status, etc
+			+ Treasurer
+				+ Fundraising, budgeting, risk assesment, etc
+				+ Makes sure we have enough money to accomplish our mission
+			+ External affairs director
+				+ The buck stops here for external communications.
+				+ Press releases, PR, investor statements, enforcing logo usage policy, etc
+		+ Officers
+			+ President
+				+ Assists (as a subordinate) board chairperson with administration
+				+ Ensures that governing documents (bylaws, policies, etc) are being followed
+				+ Liaison with legal entities
+				+ (Legal requirements from state/fed?)
+			+ CFO
+				+ Primarily reactive - bookkeeping, fiscal policy, auditing, etc
+				+ Makes sure we know how much money we actually have
+				+ (Legal requirements from state/fed?)
+			+ Clerk
+				+ Crosses T's and dots the I's
+				+ Makes sure all of our paperwork is done and done correctly
+				+ Keeps minutes at all official meetings
+				+ Is responsible for making those minutes available to whatever parties have read access
+	Duties and Responsibilities of the Membership
+	---------------------------------------------
+		+ "Bill of rights"
+		+ ???
+	Amendments
+	----------
+		+ In all cases, proposing party must notify other parties
+		+ In all cases, "approval delay" is a required maximum waiting period for action
+			+ Acknowledgement **must** be given by board and officers by end of period
+			+ Approval may be given by end of period
+				+ Failed/lacking approval by end of period implies denial
+				+ Forced approval then granted 1/2 period for action
+			+ Veto may be given by end of period
+				+ Failed/lacking veto implies passage
+				+ Override then granted 1/2 period for action
+		+ Bylaws amendments: 3 options
+			1 Board may propose by majority decision
+				+ Officers must majority approve
+					+ Members may supermajority force approval
+				+ Members may majority veto
+					+ Officers may unanimously override
+			2 Officers may propose by majority decision
+				+ Board may majority veto
+					+ Members may supermajority override
+				+ Members must majority approve
+					+ Board may unanimously force approval
+			3 Members may propose by supermajority decision
+				+ Board may majority veto
+					+ Officers may unanimously override
+				+ Officers may supermajority veto
+					+ Board may unanimously override
+		+ Policies amendments: 3 options
+			1 Board may propose by majority decision
+				+ Officers may majority veto
+				+ Members may majority veto
+			2 Officers may propose by majority decision
+				+ Board may majority veto
+				+ Members may majority veto
+			3 Members may propose by majority decision
+				+ Requires acknowledgement of both board and officers
+				+ Board may majority veto
+				+ Officers may majority veto
+		+ (Amendment processes for regulations and procedures are contained in the policies document)     
+
+		
+Policies
+========
+
+    ???????????
