@@ -56,40 +56,39 @@ Questions:
 * Whether or not we should consider using new tools
 
 * 'Transport' infrastructure (Priority 0)
-** Discussion on hosting of wiki stuff, landed gollum + github wiki
-*** Access control, concerns that it is too early to think about this problem, let's punt until it is a problem
-*** Ease of use, ease of editing
-*** Discussion on switch to MediaWiki
-*** Meeting minutes, other permanent/single-use documents go in a git repo that gets set by group contacts, someone who is in charge of weekly meeting minutes, etc
-*** As a result, Gollum can handle the edits
-*** Bot that polls "minutes@nil.o" or something and dumps them in git repo? 
-** Discussion on mailing list v. forum software
+ * Discussion on hosting of wiki stuff, landed gollum + github wiki
+  * Access control, concerns that it is too early to think about this problem, let's punt until it is a problem
+  * Ease of use, ease of editing  
+  * Discussion on switch to MediaWiki
+  * Meeting minutes, other permanent/single-use documents go in a git repo that gets set by group contacts, someone who is in charge of weekly meeting minutes, etc
+  * As a result, Gollum can handle the edits
+  * Bot that polls "minutes@nil.o" or something and dumps them in git repo? 
+ * Discussion on mailing list v. forum software
 * Abstract Organization Infra
-** NEED bylaws
-** NEED Anti-harassment Policy
-** Need documentation on infra, what goes where, etc. What goes on wiki, what goes on git.
-*** Five layers of communication:
-**** Real-time IRC
-**** Semi-realtime mailing list
-**** Semi-permanent docs @ wiki
-**** Permanent as yet-to-be-created CMS wiki
-**** In-person meetings
-*** Yet-to-be determined project management system (PUNTING on this)
-**** Adam is going to do some work on this front for next week's meeting (ACTION ITEM)
-*** Bot in IRC that can ferry things to the other channels, and various other LoC.
-
-** Discussion on how to handle making permanent decisions until bylaws are ratified
-*** *Decree, if you have problems with what happens in a meeting, show up at the next one to change it*
+ * NEED bylaws
+ * NEED Anti-harassment Policy
+ * Need documentation on infra, what goes where, etc. What goes on wiki, what goes on git.
+ * Five layers of communication:
+ * Real-time IRC
+ * Semi-realtime mailing list
+ * Semi-permanent docs @ wiki
+ * Permanent as yet-to-be-created CMS wiki
+ * In-person meetings
+ * Yet-to-be determined project management system (PUNTING on this)
+  * Adam is going to do some work on this front for next week's meeting (ACTION ITEM)
+  * Bot in IRC that can ferry things to the other channels, and various other LoC.
+ * Discussion on how to handle making permanent decisions until bylaws are ratified
+  * *Decree, if you have problems with what happens in a meeting, show up at the next one to change it*
 
 Action Items and Decrees
 ========================
 
 * TODO Decide between forum and mailing list
 * TODO nil/nil/documents holds minutes and such (RR)
-** TODO Move wiki to nil/nil's gh wiki (RR) 
+ * TODO Move wiki to nil/nil's gh wiki (RR) 
 * TODO @adambregenzer to github org (RR)
 * TODO Create readme on what documentation goes where? (RR)
-** Front page of wiki, front page of nil/nil
+ * Front page of wiki, front page of nil/nil
 * TODO Ask Tom to add me to the NFS.N static stite thing (RR)
 * TODO Work on bylaws (NB)
 * TODO Post Bylaws draft to nil/nil/documents (NB)
