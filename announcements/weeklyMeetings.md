@@ -1,9 +1,9 @@
 NIL Weekly Meetings
 ===================
 
-As per 10 Feb meeting, effective 17 Feb we will be having a weekly meeting for the indefinite future.  Our temporarypermanent (as in, until we have our own space) 4dlocation will be **Runway: 1355 Market, SF; 19:00 on Mondays (subject to change)**.
+As per 10 Feb meeting, effective 17 Feb we will be having a weekly meeting for the indefinite future.  Our temporarypermanent (as in, until we have our own space) 4dlocation will be **Runway (midmarket SF) at 19:00 on Mondays (subject to change)**.  Food is always on the agenda.
 
-Reminders with agendas will be posted to the mailing list every week, with more detailed points-of-contact than here.
+Reminders with agendas will be posted to the mailing list every week, with more detailed points-of-contact than here.  
 
 Directions when you're there, courtesy of Robbie:
 
