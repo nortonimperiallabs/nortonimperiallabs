@@ -1,10 +1,24 @@
-sfhackerspace
-=============
+[Norton Imperial Labs](http://nortonimperiallabs.org/):  An imperial proclamation for creative collaboration
+==========================================================================
 
-TL;DR: It's a new hackerspace!  Maybe!  If you help!  Exclamation points!
+Norton Imperial Laboratories exists to provide a space where interesting
+people collaborate to write on the world in the ink of their
+imagination.
 
-We're interested in starting another general purpose hackerspace in San Francisco.  It would have a classic board/membership model, be located somewhere reasonable to rent and close to transit, and be dedicated to open community hackery of all types.
+NIL strives to inspire collaboration, creativity, and passion in the San Francisco community by:
+	* Fostering an open, collaborative space 
+	* Providing a safe, clean and inclusive work environment
+	* Teaching and helping others
 
-We have a very excited core of collaboration cohorts constructing our caper.
+Current avenues of communication:
+---------------------------------
 
-##\#SFNIL on freenode
+* [Weekly meatspace meetings](https://github.com/nortonimperiallabs/nortonimperiallabs/blob/master/announcements/weeklyMeetings.md) for decision-making
+* *##\#SFNIL on freenode* for real-time discussion
+* *[Google group](https://groups.google.com/forum/#!forum/sfhackerspace)* for asynchronous discussion
+* *[Wiki](http://wiki.nortonimperiallabs.org/) for asynchronous temporary content
+* *[@NIL/NIL github repository](https://github.com/nortonimperiallabs/nortonimperiallabs) for persistent content
+
+Getting started:
+----------------
+
