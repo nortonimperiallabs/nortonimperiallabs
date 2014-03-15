@@ -1,9 +1,8 @@
-[Norton Imperial Labs](http://nortonimperiallabs.org/):  An imperial proclamation for creative collaboration
-==========================================================================
+[Norton Imperial Labs](http://nortonimperiallabs.org/)
+======================
+An imperial proclamation for creative collaboration
 
-Norton Imperial Laboratories exists to provide a space where interesting
-people collaborate to write on the world in the ink of their
-imagination.
+Norton Imperial Laboratories exists to provide a space where interesting people collaborate to write on the world in the ink of their imagination.
 
 NIL strives to inspire collaboration, creativity, and passion in the San Francisco community by:
 
@@ -11,29 +10,42 @@ NIL strives to inspire collaboration, creativity, and passion in the San Francis
 * Providing a safe, clean and inclusive work environment
 * Teaching and helping others
 
-Current avenues of communication:
----------------------------------
 
-* [Weekly meatspace meetings](https://github.com/nortonimperiallabs/nortonimperiallabs/blob/master/announcements/weeklyMeetings.md) for decision-making
-* ##\#SFNIL on freenode for real-time discussion
-* [Google group](https://groups.google.com/forum/#!forum/sfhackerspace) for asynchronous discussion
-* [Wiki](http://wiki.nortonimperiallabs.org/) for asynchronous temporary content
-* [@NIL/NIL github repository](https://github.com/nortonimperiallabs/nortonimperiallabs) for persistent content
+Communication
+=============
 
-Getting started:
-================
+**IRC**: `#sfnil` on Freenode
+**Mailing list**: actually a [Google group](https://groups.google.com/forum/#!forum/sfhackerspace)
+**Twitter**: [@nil_sf](https://twitter.com/nil_sf)
 
-Branching rules for this repo:
-----------------------------------
 
-**Note: Temporary as of 2014 03 04, needed as interim before finalizing at next weekly meeting.**  Rules adapted from [this post](http://nvie.com/posts/a-successful-git-branching-model/).  These are not currently enforced by hooks.
+Meetings
+========
 
-* Commits to master should represent finalized content.  Please do not commit working copies to master.  **Changes to master should be discussed at weekly meetings prior to merging.**
-* For changes relating to specific action items from weekly meetings, create a private branch in @NIL/NIL/dev/ for your work.  For example, Badg created @NIL/NIL/dev/bylaws to work on his assigned action items from the 2014 03 03 meeting.
-	* Collaborators should submit suggestions to private branches.  For example, rrix might add suggestions in @NIL/NIL/dev/bylaws/rrix
-	* The action item assignee (in this example, Badg) is free to adopt or ignore those suggestions
-	* Specific action-item development branches may be merged directly to master
-* For changes unrelated to specific action items, create a private branch in @NIL/NIL/unassigned/ for your work.  For example, Badg might create @NIL/NIL/unassigned/procedures to draft a procedure for lathe access control.
-	* Unassigned branches *may* be **courteously** merged into by others.  The creator of the branch has every right to revert those commits.
-	* Unassigned branches should not be merged directly into master, but should first be merged into the intermediate @NIL/NIL/development branch
-	* Pending changes on the catch-all @NIL/NIL/development branch will be discussed at weekly meetings.
+We meet every week on Monday at 7pm in cyberspace. Our venue is a Google Hangout. The first person to arrive starts a hangout and pastes the link into the `#sfnil` IRC channel.
+
+Someone takes minutes. The note-taker should put the minutes in a `minutes/yyyy-mm-dd` branch of this repo, and make a pull request. Everyone at the meeting should read the minutes, and note their approval in the pull request. If there's an error, clone the repo/branch and make the fix. Action items should turn into [issues](https://github.com/nortonimperiallabs/doocracy) on the `doocracy` repo.
+
+[The agenda for next week's meeting](http://wiki.nortonimperiallabs.org/next-meeting-agenda) has a permanent place on the wiki. For something to be elegible for a decision at a meeting, the topic must have been added to the agenda by midnight the Friday before.
+
+If a decision requires a change to our processes or whatnot, it needs a pull request. During a meeting, we can agree on a PR, suggest improvements, or reject the proposal. If we agree on a PR, someone in attendence should merge it after the meeting. If it needs improvement make, those should be made in the same branch, and we can re-evaluate it at the next meeting. If at all possible, those who suggested improvements should engage with the PR.
+
+Decisions at meetings are made by consensus of those present, and effective immediately. Decisions can be overruled by consensus at the next meeting. Quorum for a meeting is 3 people.
+
+* * * * *
+
+Our general records of meetings, processes, and whatnot are in this repo. 
+
+* The `[minutes](https://github.com/nortonimperiallabs/nortonimperiallabs/tree/master/minutes)` directory contains our meeting minutes.
+* The `[documents](https://github.com/nortonimperiallabs/nortonimperiallabs/tree/master/documents)` directory contains our processes &c.
+
+We have a separate repo for issues. File issues [here](https://github.com/nortonimperiallabs/doocracy).
+
+
+Branching & Merging
+===================
+
+The `master` branch contains final content. Changes to `master` should be proposed in a pull request, and approved at a meeting.
+
+Generally, you should make changes in a branch of your own fork. If you think that others might need to make improvements to your proposal, you should use a branch on the main repo. Please make sure that proposals are in a branch called something like `branch/proposalname`.
+
