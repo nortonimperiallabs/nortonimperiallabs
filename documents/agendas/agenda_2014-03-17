@@ -1,0 +1,121 @@
+Agenda, 2014-Mar-17
+=======
+
+Meeting goals (<1 minute)
+=============
+
++ Finalize branching structure and current infrastructure tools
++ Define "membership"
+	
+
+Previous week's summary (10 minutes)
+========================
+
+Logistics and Infrastructure
+------------
+
++ For now, if it isn't on the wiki or the NIL repo, it doesn't officially exist
++ Possible (probable?) migration to Discourse
++ Meetings in high-bandwidth digital space (Google Hangouts until proved otherwise)
++ Decisions can only be finalized at meetings
++ Proposals on weekly agenda by 23:59 Friday, then copied to @NIL:NIL/master
+	+ If more discussion is needed on a proposal than can fit in the agenda-allotted time, it is automatically tabled to next meeting
+	+ Discussion can continue out-of-meeting, but again, any decision is only finalized at a weekly meeting
+	+ Decisions cannot be finalized on items that were not on the agenda (minimum required notice)
++ Website autodeployment currently handled by tombot, automation deferred
+
+Decision making
+---------------
+
++ Decisions at weekly meetings apply immediately
++ Any disagreement/discussion can be added to the following agenda
++ Branching is integral part of process
+	+ Commits to master are published, decided content
+	+ No direct commits to master (should write hook)
+	+ Working on something:
+		+ Pull request from personal fork for solo work
+		+ Private branch on @NIL:NIL for collaborative work
+		+ Private branch namespaces: minutes/2014-03-10, proposal/bikeshed, etc
++ Bylaws development will be deferred until more necessary, EX: when board is being formed	
++ RRIX is chief of infrastructure for now and may make infrastructure decisions independent of weekly meetings
+	+ These decisions are accountable to RRIX
+	+ May be addressed at meetings, etc
+	
+Action item updates (10 minutes)
+=================================================
+
++ Merlin to figure out how to get persistent URLs for hangouts
++ specific wording for the proposal workflow and procedures for bringing items to the meetings
++ Update weekly minutes documentation
++ Open github issues for all action items
++ Badg to Codify within the main nil repo that rrix is infra czar with absolute decision power and may delegate but is accountable to the meeting attendees who can replace him or tell him to do something different
++ flamsmark to Open an issue and decide a procedure for operation in google hangouts meetings, including a description of who gets to talk next
++ Pull request for updating our website with branding done at last week's meeting
++ Establish agenda for next week's meeting
++ rrix to figure out sync between w.NIL and github wiki
+
+Easy business (10 minutes)
+========================
+
+Discussion
+----------
+
++ Update re: meeting time/dayofweek
+
+### PGP keyparty
+
+Proposals
+-------------
++ Update branching rules on readme
++ Add readme to wiki.nil.org
++ Add link to wiki.nil.org on nil.org
+
+Medium business (50 minutes)
+===============
+
+Discussion
+----------
++ How to conduct meetings in virtual space?  EX: robert's rules (but not really)
+
+
+Proposals
+---------
+
+### Form as a [B-Corporation](http://en.wikipedia.org/wiki/Benefit_corporation)?
+* [Issue #24](https://github.com/nortonimperiallabs/doocracy/issues/24)
+* For better or worse, max is afk for now, which is going to make it difficult to do things like banks and stuff, and Tom brought up the point that B-corps are pretty neat.
+
+### Arcon CMS/PM update
+* ??
+
+### Working groups
+Suggestion: working groups are a really great way to do work. 
+* What effective working groups do we have?
+* How do we formalize WGs?
+* What is our general model for WGs?
+
+### Real estate working group
+
+### Crowdfunding campaign working group
+
+### Branding working group
+
+Hard business (30 minutes)
+=============
+
+Discussion
+----------
+
+### The Council
+Who is the council; how do we add people to that group?
+
+Proposals
+----------
+
+
+Recap and reassess (10 minutes)
+==================
+
++ Goals for next week
++ Task review
++ Task assignment
