@@ -15,62 +15,62 @@ Old Business
 * Updates on Preview week's meeting
 * Short term resolution: If it's not on the wiki or in the nil repo, it doesn't exist. Long term, we can decide later that if it doesn't exist on the mailing list or something else, it doesn't exist
 * Discussion on mailing list v. forum v. discourse
- * Flamsmark propose: Current mailing list is the worst possible choice, but all the other options are less good. Suggests that we would like to switch to discourse but a) no one will deploy it, b) no e-mail infrastructure
+  * Flamsmark propose: Current mailing list is the worst possible choice, but all the other options are less good. Suggests that we would like to switch to discourse but a) no one will deploy it, b) no e-mail infrastructure
 * Discussion on canonical meeting location
- * Motion to make google hangouts the primary location of meetings, meatspace coincidence of location is optional and unrelated.
- * Decisions can only be finalized at weekly meetings. Proposals end up on the weekly agenda by midnight Friday, when it is copied to the read-only nilrepo master. (replace this human with a small shell script)
- * Disagreements with proposals trigger a tabling of discussion until the next meeting, and involved parties should  discuss for the next meeting on a publicly visible medium
+  * Motion to make google hangouts the primary location of meetings, meatspace coincidence of location is optional and unrelated.
+  * Decisions can only be finalized at weekly meetings. Proposals end up on the weekly agenda by midnight Friday, when it is copied to the read-only nilrepo master. (replace this human with a small shell script)
+  * Disagreements with proposals trigger a tabling of discussion until the next meeting, and involved parties should  discuss for the next meeting on a publicly visible medium
 * Infra discussion on project management/cms stuff. Rehash of last week's discussion for parties not in attendence, punting on this without arcon present
 * Current Decision Making Structure
- * Decided last week that decisions that we make at meetings via consensus apply immediately. If you don't like it, show up at the next meeting.
- * 3 person quorum. Agenda items must be on agenda by friday night at midnight.
- * Merlin to figure out how to get persistent URLs for hangouts
- * For next meeting: Draft resolutions submitted via pull requests, discussed at meeting and synthesized in to a final wording and the pull is merged by someone in attendance
- * specific wording for the above proposal and procedure therein
+  * Decided last week that decisions that we make at meetings via consensus apply immediately. If you don't like it, show up at the next meeting.
+  * 3 person quorum. Agenda items must be on agenda by friday night at midnight.
+  * Merlin to figure out how to get persistent URLs for hangouts
+  * For next meeting: Draft resolutions submitted via pull requests, discussed at meeting and synthesized in to a final wording and the pull is merged by someone in attendance
+  * specific wording for the above proposal and procedure therein
 * Temporary Branching Structure
- * Commits to master represent final content. Changes to master should be discussed prior to meeting via pull request. No one edits master.
- * Meeting minutes are submitted to main repository via pull request, all members in attendance will add a comment to establish quorom and make changes if necessary.
- * Pull request from personal fork -> master EXCEPT for changes where collaboration is expected (such as minutes), which shoudl be branched directly on the main repository
-  * Namespace branches (minutes/2014-03-10, proposal/blue-bikeshed). Action items continue to go in github issues.
+  * Commits to master represent final content. Changes to master should be discussed prior to meeting via pull request. No one edits master.
+  * Meeting minutes are submitted to main repository via pull request, all members in attendance will add a comment to establish quorom and make changes if necessary.
+  * Pull request from personal fork -> master EXCEPT for changes where collaboration is expected (such as minutes), which shoudl be branched directly on the main repository
+    * Namespace branches (minutes/2014-03-10, proposal/blue-bikeshed). Action items continue to go in github issues.
 * Update weekly minutes documentation on the github to reference the fact that Hangouts is our primary mode of meeting
 
 * Good numbers at tonight's meeting, plan to make it easier to attend via hangouts to make that more consistent in the future, woo!
 * Vote to reconsider meeting date still landed on Monday with Thursday in close second.
 * Autodeployment of website
- * motion by flamsmark to defer, seconded by teapot
+  * motion by flamsmark to defer, seconded by teapot
 * Membership definition
- * Badg: need to define what membership is
- * teapot: propose structure where you're  a member if you're dues paying or we love you and arrange otherwise.
- * Badg: for the purpose of bylaws we need to define membership as:
-  * What are the rights of a member
-  * What are the privileges of a member
-  * What are the obligations of a member
- * rrix: move to make membereship tiers operational
- * flamsmark says we have two membership tiers for purpose of bylaws:
-  * officers
-  * the board
- * teapot: need to decide how to create board, and thus need to define people who can change the board, either via vote or appointment.
- * flamsmark: the board should have absoluate power, decided uninimously via c******* and decide new members of the board
- * badg: number of misgivings towards that. c******* fails even among small groups. creation of power structure with checks and balances is necessary.
- * flamsmark: don't need checks and balances since they aren't controlling our lives entirely. need consensus with a block override.
- * badg: need to establish valance between "a decision" and "the right decision"
- * <Discussion ensues where rrix sucks at typing, arguing of semantics over the meaning of 'bylaws'>
-  * C********: Creation of governance structure document. We call them rules. Fuck bylaws, they're bullshit (for now).
-  * All decisiosn in rules needs to be created by The Council. The Council is currently a list of all people involved in forming SF NIL.
-  * Members of The Council in attendance at the meetings define decisions per above decision making process
+  * Badg: need to define what membership is
+  * teapot: propose structure where you're  a member if you're dues paying or we love you and arrange otherwise.
+  * Badg: for the purpose of bylaws we need to define membership as:
+    * What are the rights of a member
+    * What are the privileges of a member
+    * What are the obligations of a member
+  * rrix: move to make membereship tiers operational
+  * flamsmark says we have two membership tiers for purpose of bylaws:
+    * officers
+    * the board
+  * teapot: need to decide how to create board, and thus need to define people who can change the board, either via vote or appointment.
+  * flamsmark: the board should have absoluate power, decided uninimously via c******* and decide new members of the board
+  * badg: number of misgivings towards that. c******* fails even among small groups. creation of power structure with checks and balances is necessary.
+  * flamsmark: don't need checks and balances since they aren't controlling our lives entirely. need consensus with a block override.
+  * badg: need to establish valance between "a decision" and "the right decision"
+ * Discussion ensues where rrix sucks at typing, arguing of semantics over the meaning of 'bylaws'
+   * C********: Creation of governance structure document. We call them rules. Fuck bylaws, they're bullshit (for now).
+   * All decisiosn in rules needs to be created by The Council. The Council is currently a list of all people involved in forming SF NIL.
+   * Members of The Council in attendance at the meetings define decisions per above decision making process
 * Auto Deploy
- * Currently deployment strategy: Changes go in to master via pull request by flamsmark. When merged, flamsmark will deploy it or someone should remind him to deploy it.
- * flamsmark is the maintainer of website until further decision as decided by infrastructure czar. 
- * User story: when flamsmark merges a change, no human intervenes and the site updates. we shoudl replace flamsmark with a small shell script.
- * flamsmark: there are three subsystems: production nil.o, wherever the robot lives, and github.
-  * Robot has a web API endpoint
-  * If the endpoint gets hit, it pulls the repo and does an rsync to the webroot
- * TODO: Codify within the main nil repo that rrix is infra czar with absolute decision power and may delegate but is accountable to the meeting attendees who can replace him or tell him to do something different (NB)
- * Open an issue and decide a procedure for operation in google hangouts meetings, includeing a description of who gets to talk next
-  * Procedure where someone waits until the moderator lets them talk?
- * Pull request for updating our website with branding done at last week's meeting
- * Establish agenda for next week's meeting
- * figure out sync between w.NIL and github wiki (RR)
+  * Currently deployment strategy: Changes go in to master via pull request by flamsmark. When merged, flamsmark will deploy it or someone should remind him to deploy it.
+  * flamsmark is the maintainer of website until further decision as decided by infrastructure czar. 
+  * User story: when flamsmark merges a change, no human intervenes and the site updates. we shoudl replace flamsmark with a small shell script.
+  * flamsmark: there are three subsystems: production nil.o, wherever the robot lives, and github.
+    * Robot has a web API endpoint
+    * If the endpoint gets hit, it pulls the repo and does an rsync to the webroot
+  * TODO: Codify within the main nil repo that rrix is infra czar with absolute decision power and may delegate but is accountable to the meeting attendees who can replace him or tell him to do something different (NB)
+  * Open an issue and decide a procedure for operation in google hangouts meetings, includeing a description of who gets to talk next
+    * Procedure where someone waits until the moderator lets them talk?
+  * Pull request for updating our website with branding done at last week's meeting
+  * Establish agenda for next week's meeting
+  * figure out sync between w.NIL and github wiki (RR)
 
 ACTION ITEMS
 =============
