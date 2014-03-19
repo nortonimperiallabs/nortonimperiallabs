@@ -47,5 +47,5 @@ Branching & Merging
 
 The `master` branch contains final content. Changes to `master` should be proposed in a pull request, and approved at a meeting.
 
-Generally, you should make changes in a branch of your own fork. If you think that others might need to make improvements to your proposal, you should use a branch on the main repo. Please make sure that proposals are in a branch called something like `branch/proposalname`.
+Generally, you should make changes in a branch of your own fork. If you think that others might need to make improvements to your proposal, you should use a branch on the main repo. Please make sure that proposals are in a branch called something like `proposal/proposalname`.
 
