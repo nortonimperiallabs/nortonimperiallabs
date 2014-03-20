@@ -1,15 +1,13 @@
-NIL values being inclusive and diverse. We want to be a space where all sorts of people feel safe. This means that our door are not always open, and we carefully choose who joins us.
+NIL values inclusiveness and diversity. We strive to be a space where everyone feels safe and valued, no matter their background, identity, or level of experience. However, our doors are not open to everyone; participation and membership are privileges that may be refused or revoked.
 
-NIL exists to enable the quintessential joy of creation. We are here for the passion project. Commercialization and scaling can come later, and elsewhere. We are not an incubator or a coworking space.
+NIL is for the quintessential joy of creation, the passion project, the intellectual pursuit you just can't put down. Commercialization and scaling can come later, and elsewhere. We are not an incubator or a coworking space.
 
-Come to NIL to work and to collaborate. Feel free to choose who you work with, but do not be surprised if others start similar projects. Forking is a gesture of love: you own your work, not your ideas.
+NIL is not here for profit for ourselves or for others. We are here to maintain & enable this space, to improve it, and to support this community and share its values.
 
-NIL welcomes all levels of participation; the best way to contribute is by participating. The space is here for you: sitting and working is fine, but you're only really here when here you're here in spirit too. You contribute to the space by contributing to the space, not just by being here.
+NIL welcomes all levels of community participation; the best way to contribute to the space is by participating in the community. The space is here for you: sitting and working is fine, but you're only really here when here you're here in spirit too. You contribute to NIL by contributing to NIL, not just by being here.
 
-There is no SLA on quiet time. Hardware work can be loud.
+NIL if for those of all skill levels and abilities. It's not for us to decide whether your project is interesting or excites you, that's up to you. As long as you and your projects play well with others, you may work on them here.
 
-NIL are not here for profit for ourselves, or for others. we are here to maintain & enable this space, to improve this space, and to share it's values
+Come to NIL to work and to collaborate. Feel free to choose who you work with, but do not be surprised if others start similar projects. Forking and imitation are gestures of love: you own your work, not your ideas.
 
-NIL welcomes those of all skill levels and abilities. It is not for us to decide who is “really” hacking. As long as your project follows the golden rule, you may work on it here.
-
-NIL believes in freedom and openness: free software, open culture, and sharing. Openness respects and values the privacy of other people. Freedom acknowledges the impact one's actions has on others, and respects their autonomy.
+NIL believes in freedom and openness: free software, open culture, and sharing. Openness respects and values the privacy of other people. Freedom acknowledges the impact one's actions have on others, and respects their autonomy.
