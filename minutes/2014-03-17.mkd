@@ -2,7 +2,7 @@ SFNIL Meeting 2014-03-11
 ========================
 
 Attendees
----------
+=========
 
 * asmallteapot
 * blueminder
@@ -11,120 +11,114 @@ Attendees
 * tyler
 * badg
 
-Minutes
--------
 
-### Summary of Previous Week's Minutes
+Summary of Previous Week's Minutes
+==================================
 
 *Nothing to note*
 
-### Business
+Business
+========
 
-* Disucssion of re-forming as a b-corp
-  * Basic overview of a [bcorp](http://en.wikipedia.org/wiki/B-Corporation)
-  * blueminder and flamsmark to form the b-corp working group
+B-corp
+------
+* We discussed re-forming as a b-corp
+* Basic overview of a [b-corp](http://en.wikipedia.org/wiki/B-Corporation)
+* blueminder to bottom-line the b-corp working group
 
-#### Working Groups
+Working Groups
+--------------
+If something is going to take a lot of work, we form a working group around it. Someone volunteers to bottom-line the group. The board assigns the group one or more tasks. Working groups can be temporary or ongoing.
 
-* If something is going to take a lot of work, we form a working group around
-  it, someone chairs it and the board takss them with a thing that they do,
-  whether that is temporary or ongoing
+### Community
+Responsible for building an ongoing CWG charter and then enacting that charter
+* flamsmark (bottom-line)
+* rrix
 
-* CWG: responsible for building an ongoing CWG charter and then enacting
-  that charter
-  * flamsmark (chair)
-  * rrix
-* Real Estate WG: Propose a piece of real estate and a budget for moving in
-  * robie (chair)
-* Crowdfunding WG: define our crowdfunding campaign and lead it to
-  glorious victory
-  * blueminder (chair)
-  * tyler
-* Branding WG: Figure out our branding and implement it
-  * Badg (chair)
-* Infra WG: Responsible for bits and bites and things that make the space
-  tick
-  * rrix (chair)
-  * flamsmark
-  * tyler
-* Decision Making/Charter WG: Come up with a better decision making
-  process than consensus and a better way to fill the council
-  * Badg (chair)
+### Real Estate
+Propose a piece of real estate and a budget for moving in
+* robie (chair)
 
-### The Council
+### Crowdfunding 
+Define our crowdfunding campaign and lead it to glorious victory
+* blueminder (chair)
+* tyler
 
-* We will define who can make decisions at this meeting, and there is a
-  standing item to add new council members in the future
-* Current Council:
-  * flamsmark
-  * asmallteapot
-  * blueminder
-  * merlin
-  * badg
-  * tyler
-* Provisional Members (show up, ya bums):
-  * robie
-  * adam
+### Branding
+Figure out our branding and implement it
+* Badg (chair)
 
-### CWG report
+### Infrastructure
+Responsible for bits and bites and things that make the space tick
+* rrix (chair)
+* flamsmark
+* tyler
 
-#### Statement of Values
+### Decision Making/Charter
+Come up with a better decision making process than consensus and a better way to fill the council, &c.
+* Badg (chair)
 
-* rrix and flamsmark have been meeting and talking and researching an
-  dlistening on how to not make a terrible group of people
+The Council
+-----------
+The council will define who can make decisions at this meeting, and there is a standing item to add new council members in the future
+
+Current council:
+* flamsmark
+* asmallteapot
+* blueminder
+* merlin
+* badg
+* tyler
+
+Provisional Members (a.k.a: show up, ya bums):
+* robie
+* adam
+
+CWG report
+----------
+
+### Statement of Values
+
+* rrix and flamsmark have been meeting and talking and researching and listening on how to not make a terrible group of people
 * White guys suck at making considerate and inclusive decisions
 * both are talking to folks about how to not be terrible
   * nb in this case is terrible
   * du not so much
-* flamsmark drafted statement of values, they are in [a pull
-  request](https://github.com/nortonimperiallabs/nortonimperiallabs/pull/7),
-  put comments there as line notes. Work on it through the week, let's get it
-  on the agenda for next week.
+* flamsmark drafted statement of values, they are in [a pull request](https://github.com/nortonimperiallabs/nortonimperiallabs/pull/7), put comments there as line notes. Work on it through the week, let's get it on the agenda for next week.
 * blueminder likes the SoV in its current state
-* Badg has a bunch of revisions
-  * Comment on pull request with specific, actionable items, via line note in
-    the pull request.
+* Badg has a bunch of revisions and will comment on pull request with specific, actionable items, via line notes
 
-#### Membership Process
+### Membership Process
 
 Goals:
 
 * Prevent jerks from joining
 * include people who aren't like us
 * DU has a membereship application that we should steal
-  * rrix has been tasked to talk to the DU people about auditing that and
-    preparing it for open source release
-  * Badg likes idea, worries about barrier to entry
-    * Ensuring that we don't create too high of a barrier to entry is punted
-      to the CWG.
+  * rrix has been tasked to talk to the DU people about auditing that and preparing it for open source release
+  * Badg likes idea, worries about barrier to entry, but ensuring that we don't create too high of a barrier to entry is punted to the CWG.
 
-#### Finding our space
+### Finding our space
+Be sure we don't end up in a space that disenfranches people
 
-* Be sure we don't end up in a space that disenfranches people
+#### Communication Media
+flamsmark: IRC should not be a requirement for participation in our community, and nor should email.
 
-#### Communication Medias
+**Cheers from audience**
 
-* flamsmark: IRC should not be a requirement for participation in our
-  community
-  * Email should not be a requirement for participation in our community
-  * *Cheers from audience*
-* Discourse
-* Slack
-  * everyone should email flamsmark to join it
-  * We should try it for a week instead of IRC to evaluate whether we can use
-    it
-* We should decide which, or both of those we want to use since the barrier to
-  non-technical people is too high for IRC and mailing lists
-* blueminder worries that slack goes against our philosophies of supporting
-  free/open source software
-* flamsmark says that it is important to use things that are accessible to
-  non-nerds and *then* freedom.
+Instead, let's try other tools, like Discourse & Slack
+
+We're going to try Slack for a week instead of IRC to evaluate whether we can use it (email flamsmark for an invite)
+* We should decide which, or both of those we want to use since the barrier to non-technical people is too high for IRC and mailing lists
+* blueminder worries that slack goes against our philosophies of supporting free/open source software
+* flamsmark says that it is important to use things that are accessible to non-nerds and *then* freedom.
 * Badg suggests irccloud
   * Does not replace high bandwidth and async communication things
 * We will try using both
 * Badg to try to find an alternative to hangouts
 
-### Meeting Dates and Times
+Meeting Dates and Times
+-----------------------
 
 * Thursday and Monday are still best
 * Should re-send cyberquestion of preference now that cybermeetings are in cyberspace
