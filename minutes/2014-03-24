@@ -1,0 +1,79 @@
+Agenda for next meeting
+=======================
+
+The next meeting is: 2014-03-24, 1900h  
+This agenda is fixed: 2014-03-21, 2359h
+
+The meeting happens in cyberspace, by Google Hangout.
+
+
+Getting started
+===============
+
+* *Get the cyber-hangout working…*
+* Do we have a note-taker?
+* Take attendence.
+* Are the minutes from last week correct and approved?
+
+
+Working group reports
+=====================
+
+Branding
+--------
+[Open branding issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=branding&page=1&state=open)  
+Responsible: Nick Badger
+
+Community
+---------
+[Open community issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=community&page=1&state=open)  
+Responsible: Tom Lowenthal 
+
+Crowd-funding campaign
+----------------------
+[Open funding issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=funding&page=1&state=open)  
+Responsible: Enrique Santos
+
+Decision-making process
+-----------------------
+[Open decisions issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=decisions&page=1&state=open)  
+Responsible: Nick Badger
+
+Incorporation
+-------------
+[Open incorporation issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=incorporation&page=1&state=open)  
+Responsible: Enrique Santos
+
+Infrastructure
+--------------
+[Open infra issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=tech%2Finfra&page=1&state=open)  
+Responsible: Ryan Rix
+
+Real estate
+-----------
+[Open space issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=space&page=1&state=open)  
+Responsible: Robbie Trencheny
+
+
+Decisions
+=========
+Hint: [open pull requests](https://github.com/nortonimperiallabs/nortonimperiallabs/pulls)
+
+* [Charter for the Community WG](https://github.com/nortonimperiallabs/nortonimperiallabs/pull/10)
+* [Values statement](https://github.com/nortonimperiallabs/nortonimperiallabs/pull/7)
+* Is membership something which can be a reward for our funding campaign, or do we need an application process.
+
+
+Discussions
+===========
+
+* Slate
+* [Loomio](https://www.loomio.org/)
+* Fuzebox
+
+
+Finishing
+=========
+
+* Note-taker should put the minutes branch like `minutes/yyyy-mm-dd` and issue a pull request.
+* Note-taker should turn all action items into [doocracy issues](https://github.com/nortonimperiallabs/doocracy/issues).
