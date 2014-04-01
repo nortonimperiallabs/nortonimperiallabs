@@ -104,7 +104,7 @@ Bylaws
 	----------
 		+ In all cases, proposing party must notify other parties
 		+ In all cases, "approval delay" is a required maximum waiting period for action
-			+ Acknowledgement **must** be given by board and officers by end of period
+			+ Acknowledgement **must** be given by board and relevant officers by end of period
 			+ Approval may be given by end of period
 				+ Failed/lacking approval by end of period implies denial
 				+ Forced approval then granted 1/2 period for action

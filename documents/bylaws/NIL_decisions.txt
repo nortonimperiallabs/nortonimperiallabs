@@ -1,0 +1,117 @@
+Decision Making Structure
+=========================
+
+Methodology:
+------------
+
+The goal of this document is to create a framework by which a hybrid consensus/hierarchical organization may arrive at effective, amicable decisions in a timely and efficient manner.  Differing classes of decisions require different levels of scrutiny, responsiveness, and rigour.  A decision regarding, for example, an amendment to an organizational framework, must require much greater consideration and care than one regarding safety procedures for an individual piece of equipment.  It is typically the case that these broad changes are also not particularly time-pertinent, while small changes may need to rapidly respond to evolving situations.  Since as a general rule, the larger the decision-making body, the longer it takes to arrive at a conclusion, it stands to reason that these small changes should /require/ the least input from an all-encompassing group.  This is not to say that the group cannot be involved, nor that they may not arrive at a decision or make recommendations on their own!  It simply means that for these kinds of small issues, leadership components of the organization (such as the board of a corporation) should have greater freedom to act.  So, this immediately necessitates three definitions: 
+
+1. what are the different levels of decisional scope, and which classes of decisions should fall under which levels of scope?
+2. what are the procedures to make each kind of decision, and how might these decisions be changed?
+3. by what metric should each decision be considered "chosen"? 
+
+Levels of decisional scope
+------------------------------
+
+If an organization exists in both an abstract sense, and within a physical space, then there already exists an immediate dichotomy between classes of decisions.  There are decisions that involve the structure and definition of the organization, and then there are decisions that involve the physical operation of the organization's physical space (and anything within it).  However, this dichotomy can often be a false one, and it would be perhaps a little foolhardy to limit all decisions to one of those two categories.  Furthermore, it's worth noting that because a physical space could not exist without the organization that supports it, decisions involving the physical manifestation of the organization are by definition smaller in scope than those affecting the organization itself.  So, our divisions are thusly:
+
+1. Very broad organizational decisions -- questions of identity and procedure, in a very fundamental sense, like "what the board may or may not do" or "changing the number of board members" -- and of course, the document highlighting how the organization makes decisions
+2. Broad-scope physical/organizational decisions -- things like harassment policies, which are still very rigid, and apply to any combination of physical and organizational space
+3. Limited-scope physical decisions -- things like "no sandals in the woodshop"
+4. Limited-scope organizational decisions -- this is a pretty limited category.  It might include things like large budget items or compensation of the board.
+
+These also fit relatively nicely into a hierarchy:
+
++ Bylaws			 O|		Internal organizational structure decisions
++ Policies		 	 O|		Broad scope semi-rigid "rules" decisions.
++ Procedures		  /\O	Limited scope physical "rules" decisions
++ Regulations		O/ 		Limited scope organizational things
+
+To codify:
+
+Section I.1:	The governing documents of NIL are comprised of four discrete components.  In order of precedent, from superior to subordinate, they are:
+	1.A.	These Bylaws
+		1.A.1.)	Bylaws are unlimited in scope, ie they apply to the entirety of NIL's operations.
+		1.A.2.)	Bylaws concern the management of the organization itself, and not its day-to-day operations
+		1.A.3.)	The procedures for amending or altering the Bylaws shall be contained within the Bylaws document.
+	1.B.	Organization Policies
+		1.B.1.)	Policies are unlimited in scope.
+		1.B.2.)	Policies concern the operation of NIL's physical space(s) and not management of the NIL organization itself
+		1.B.3.)	The procedures for amending or altering the Policies shall be contained within the Bylaws document.
+	1.C.	Regulations
+		1.C.1.)	Regulations are limited in scope, ie they apply to a specific subset of the NIL organization.
+		1.C.2.)	Regulations concern the management of the NIL organization and not its day-to-day activities.
+		1.C.3.)	The procedures for amending or altering the Regulations shall be contained within the Bylaws document.
+	1.D.	Standard Operating Procedures (SOP)
+		1.D.1.)	SOPs are limited in scope.
+		1.D.2.)	SOPs concern day-to-day operations in a specific part of NIL's physical space(s) and not its organizational management.
+		1.D.3.)	The procedures for amending or altering the SOPs shall be contained within the Policies document.
+Section I.2:	These bylaws constitute the ultimate governing document of NIL's internal operations. They are subordinate only to applicable Local, State, and Federal laws.
+	2.A.	The Bylaws, Policies, Regulations, and Procedures shall be equally applicable to NIL and its members. [considered a contractual agreement?]
+	2.B.	The NIL organization and membership shall be jointly and/or separably culpable for violations of any and all of the Governing Documents.
+	2.C.	Any conflicting statements within these Governing Documents are to be resolved through the hierarchy of precedence established in §I.3:  the conflicting rule in the subordinate document will be considered null and void.
+Section I.3:	[Voting provisions: when is a vote required?  What voting system is used?]
+	3.A.	No voting by proxy shall be allowed.
+	3.B.	For the purpose of these Bylaws, all votes shall require a quorum of members to be present.  Likewise, the number of votes required for a motion’s success shall be calculated from the number of members present at the meeting, provided a quorum is present.
+
+What are the procedures to reach a decision?
+--------------------------------------------
+
+Having defined decisional categories, we now need to define the procedures to make the decisions themselves.  This is largely dependant upon organizational structure.  In general, it is assumed that there are three different "powers that be":
+
+1. The board
+2. Positions appointed by the board
+2. The general membership
+
+These three powers are derived from the observation that boards, being concerned with the larger picture of an organization, tend to delegate responsibilities to subordinates.  These subordinate groups are allowed to operate in a largely-autonomous manner, arriving at decisions that are in fact accountable to the board, but that (excepting any particular disagreement, offence, or obscenity) generally tend to be assumed-good decisions.  An apt example might be the webmaster for a 501(c)(3), or the Chief of Infrastructure for a development company, or the head of a working group for branding.  Meanwhile, the board tends to be elected by the membership as a body that may make the /best/ decisions for the group -- which may or may not be the most popular.  Finally, since all power is in an organization is derived from its constituents, it is vital to define their role in the process as well.
+
+Without addressing the definition of each group, nor their election/appointing, etc, we still need a way to allow each group the maximum freedom of action within the organization to accomplish beneficial change, whilst simultaneously limiting both detrimental changes and annoying impedances created by superfluous unnecessary "decision spam".  Though in general the total number of [2. positions appointed by the board] will be greater than the number of the board itself, each position would preferentially be comprised of a single point of contact, and since they have received no direct scrutiny by the general membership, the decision-making power of each of these individuals should be carefully regulated.  There is also a latent question of relevancy:  if the appointed Chief of Climate Science wanted to insert a paragraph denouncing evolution into a biology textbook, should his input be considered more than the average "member" of the population, or should that paragraph be included or excluded only by the decision of a group of appointed experts /in the relevant field/?  The question of "relevancy" must be answered by the board as a part of the appointment process.  For all of these reasons, the relevant positions appointed by the board are assumed to be /effectively/ fewer in number than the board itself, and as such, have different levels of responsibility and privilege.
+
+That leaves us with a slow, cumbersome general body from which the organization derives the lion's share of its power and meaning, small fast and focused specialist groups who are not directly chosen by the general body, and an (elected?) board whose concern is to make the best possible space for the members, as defined by the organization's self-identity (things like vision statements, values statements, missions statements, etc).  It is lastly assumed that the procedures for amending documents is the same as the procedure to create them.
+
++ In all cases, proposing party must notify other parties
++ In all cases, "approval delay" is a required maximum waiting period for action
+	+ Acknowledgement **must** be given by board and officers by end of period
+	+ Approval may be given by end of period
+		+ Failed/lacking approval by end of period implies denial
+		+ Forced approval then granted 1/2 period for action
+	+ Veto may be given by end of period
+		+ Failed/lacking veto implies passage
+		+ Override then granted 1/2 period for action
++ Bylaws amendments: 3 options
+	1 Board may propose by majority decision
+		+ Officers must majority approve
+			+ Members may supermajority force approval
+		+ Members may majority veto
+			+ Officers may unanimously override
+	2 Officers may propose by majority decision
+		+ Board may majority veto
+			+ Members may supermajority override
+		+ Members must majority approve
+			+ Board may unanimously force approval
+	3 Members may propose by supermajority decision
+		+ Board may majority veto
+			+ Officers may unanimously override
+		+ Officers may supermajority veto
+			+ Board may unanimously override
++ Policies amendments: 3 options
+	1 Board may propose by majority decision
+		+ Officers may majority veto
+		+ Members may majority veto
+	2 Officers may propose by majority decision
+		+ Board may majority veto
+		+ Members may majority veto
+	3 Members may propose by majority decision
+		+ Requires acknowledgement of both board and officers
+		+ Board may majority veto
+		+ Officers may majority veto
++ (Amendment processes for regulations and procedures are contained in the policies document)     
+
+Arriving at a decision
+-----------------------
+
+Once the decision-making groups have been identified, and their respective powers defined, still one task remains.  How is an idea turned into a decision?  What defines the process that transitions something from an identifiable need, through a draft stage, and finally to an accepted solution?  In general, the first step should always be to identify the need.  This need should be properly documented in a central location equally accessible to all members of the organization.  It should at a bare minimum contain enough information to describe not just the letter of the problem or request but also the spirit.  Agile organizations should avoid frivolous decisions:  if action isn't required, or isn't anticipated to be required, its consideration should be delayed.  However, this must be balanced with minimization of re-work:  that is, if it's worth doing, you should probably just do it the right way from the start.
+
+Once an issue has been raised, it should be addressed.  This does not necessarily imply that it need require a solution -- not all "issues" may actually be pertinent and prudent to address -- but it should at least be acknowledged.  It is generally left to individual entities to determine relevancy:  the board may deem a problem significant and task a working group to it, or a member may of her/his own volition choose to author a solution to the problem.  Thenceforth, the only remaining question is how to actually make the decision.
+
+In general, there are two broad classes of decisions: binary (yes/no) approval decisions, and choices between competing alternatives.  Ordinal voting systems are generally considered optimal for choices between competing alternatives, as they offer the most information density.  Binary approval decisions may be better suited for "yes/meh/no/hold" voting.
