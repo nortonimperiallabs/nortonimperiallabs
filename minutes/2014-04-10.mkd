@@ -1,0 +1,103 @@
+SFNIL Meeting 04-10-2014
+========================
+
+Attendees
+=========
+
+* bill
+* tom
+* tyler
+* vivienne
+* enrique
+
+	
+Funding
+=======
+	
+* video script ideas temperature check 
+	* enrique - impartial to the decree, discuss later
+	
+	
+Branding
+========
+	
+* we should put together a clear identity, should use branding to clarify identity before
+	* video interview should fill out some of this
+	* video questions could be answered by the branding team
+	
+* we need to determine the media channels we want to use, which ones we don't want to use
+	* facebook page?
+	* twitter?
+	* tumblr?
+	
+* we should be garnering support piror to launching the campaign
+	* "if you have less than 100 people following your campaign at the start, you have less than a 20% success rate" 
+	
+* how should we contact other hacker spaces, and let them know we exist?
+	* jim to produce a list of hacker space people, to send emails
+	* call to action: follow our media channels
+	
+* vivienne to send out interview questions to answer as homework
+	
+	
+Community
+=========
+	
+* we need to agree on a values statement
+	* here is a values statement: https://github.com/nortonimperiallabs/nortonimperiallabs/pull/7/files
+	
+* we need to draft:
+	* code of conduct
+	* resolution
+	
+* we need to recruit participants
+
+* we need to recruit a community person
+	
+		
+Decision Making
+===============
+	
+* tom will produce a proposal for decision making procedure
+	
+	
+Incorporation
+=============
+	
+* LLC paparework submittal pending - tom
+
+* need feedback on bcorp from some kind of expert
+
+	
+Infrastructure
+==============	
+	
+	
+Real Estate
+===========
+	
+	
+Decisions
+=========
+
+* meeting times are now on Thursdays at 8:00 PM! crazy
+		
+
+Action Items
+============
+
+* everyone to fill out vivienne's questionaire
+* everyone to look at the values statement, make edits/suggestions
+	* https://github.com/nortonimperiallabs/nortonimperiallabs/pull/7/files
+* draft a code of conduct
+* draft a resolution
+* recruit participants, especially a community person
+* Jim to send out a letter to a list of hacker space people
+* Tom to produce proposal for a decision making prodecdure
+* Tom to submit LLC paperwork
+
+		
+Final Remarks
+=============
+	
+* super fun hangout tomorrow! Friday, 7:30PM @ Place Pigalle: 520 Hayes St.
