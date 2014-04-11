@@ -26,19 +26,15 @@ Branding
 * we should put together a clear identity, should use branding to clarify identity before
 	* video interview should fill out some of this
 	* video questions could be answered by the branding team
-	
 * we need to determine the media channels we want to use, which ones we don't want to use
 	* facebook page?
 	* twitter?
 	* tumblr?
-	
 * we should be garnering support piror to launching the campaign
 	* "if you have less than 100 people following your campaign at the start, you have less than a 20% success rate" 
-	
 * how should we contact other hacker spaces, and let them know we exist?
 	* jim to produce a list of hacker space people, to send emails
 	* call to action: follow our media channels
-	
 * vivienne to send out interview questions to answer as homework
 	
 	
@@ -47,13 +43,10 @@ Community
 	
 * we need to agree on a values statement
 	* here is a values statement: https://github.com/nortonimperiallabs/nortonimperiallabs/pull/7/files
-	
 * we need to draft:
 	* code of conduct
 	* resolution
-	
 * we need to recruit participants
-
 * we need to recruit a community person
 	
 		
@@ -67,7 +60,6 @@ Incorporation
 =============
 	
 * LLC paparework submittal pending - tom
-
 * need feedback on bcorp from some kind of expert
 
 	
