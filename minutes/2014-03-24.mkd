@@ -1,0 +1,173 @@
+NIL 24 03 2014
+==============
+
+Attendess
+=========
+* blueminder
+* tom
+* rrix (note taker)
+* madelynn
+* vivienne
+* Badg
+* Tyler
+* robie (BUT HE LEFT)
+
+Mintues from last week are merged and shite, woo
+
+Branding
+========
+Defer branding for Badg to arrive or Tom will talk about it
+
+Community WG
+============
+Been busy, did a round of feedback on values statement, Tom feels it's ready to go, pull request is open, no feedback after the initial round of feedback.
+
+Tom wrote a charter and it's bad ass and awesome and we should merge it immediately
+
+Tom started a CoC, it's on an open pull request and it's not finished at all because butts.
+
+open ticket work on reporting mechanism
+
+open ticket to work on dispute resolution process
+* More than just big issues but bullshit like "he's not putting the soldering irons away right"
+
+Need a third CWG member because we are privileged and white and ryan is wearing a monocle over his glasses
+* Maybe even a fourth member
+
+We also need more eyes on the CWG, find people who would want to give us CoC feedback or give it for us yourself
+
+Crowdfunding WG
+===============
+blueminder wrote a thing: http://wiki.nortonimperiallabs.org/Crowdfunding-Plan
+
+* Need space estimate from Space WG so that we can set a goal for the campaign, robie is not present
+* Need logos, tagline, colors from the branding WG for the crowdfunding campaign pages
+* Need to possibly host Crowdtilt Open or Firestarter
+* Need a bank account
+* Need reward tiers
+
+Discussion whether the number in our CFC needs to cover rent, Madelynn suggests at least six months of runway. Tom says that we should have membership applications queued up alongside the CFC, with prepaid or recurring dealies set up.
+
+Still need script, there were suggestions earlier in slack, add other ideas to the plan above
+
+Viv wants to help with storyboarding and such on the CFC, punting to WG
+
+Decision Making WG
+==================
+No updates currently. Badg has been thinking about it needs to put the thoughts on the internets.
+Badg is to remain on-point, would like to have a thing done by the next week
+
+Incorporation WG
+================
+blueminder wrote a thing: http://wiki.nortonimperiallabs.org/Benefit-Corporation-Overview
+
+bcorp needs a stated public benefit, provide metrics and have a third party review
+
+Third parties could be BACH, or some sort of international hackerspace org or some shit. Third party is important though
+
+Need a mechanism to say that anyone in the org to enforce whether we are following that public benefit charter or not
+
+Paperwork
+---------
+
+First  step is to become an LLC, then 2/3 of stakeholders vote to amend us to be a B-Corp. Need directors and purpose to become a B-Corp
+Tom asks if he should resubmit the LLC incorporation papers, he should do that. blueminder is going to talk to a counsel about stock and share of the space etc
+
+Infrastructure
+==============
+* rrix sucks at deploying discourse, going to email hypatia about the DU membership application, gonna maybe do smaller issues
+
+Real Estate
+===========
+Robie isn't here, tom keeps yelling at him to get a half dozen samples from kalin so that we know how much it'll cost to move in and how much real monthly costs are going to be.
+
+Tom forms Accounting WG, pls halp. Tom is forming the website WG, pls halp.
+
+Decisions
+=========
+
+Charter for the Community WG
+----------------------------
+
+* Badg scans the charter. Badg stands aside/is cool with it.
+* SHIP IT. Someone who isnt' Tom should merge it
+
+Values statement
+------------------
+* Tom made a thing, got a round of feedback, feels it's a good comprimise
+* Badg has read 3/4 of it, blocking for feedback from outside the community
+    
+Should membership be a CFC reward
+---------------------------------
+* Tom feels very strongly that it should NOT so that we can have full control over membership
+* CFC can contain discounts, etc, but not an actual membership
+* Badg: Are we restricting entry in the space to only members?
+    * Members or guests of members, someone is accountable for people who come in. Will have general open hours.
+    * Tom: Generally we are open to members only. Members are welcome to bring in guests, the member is responsible for the guest, and they are indeed a guest. if they are overusing the space they should apply for membership. We have maybe once a week, maybe more, for open hours for new people to be introduced to the space. APplication process is online, fill that shit out, show up for a certain number of open hours.
+        * Out of town guests should post on the mailing list or forum, follow the same pattern as guest visits
+* Badg: We could have pre-paid membership as a reward, along with discount, etc
+* Tom: Sets a precedant that you WILL become a member. Could have a donation that applies back to membership as a credit
+* This should be punted to the Crowdfunding WG.
+    * Other spaces offer more than memberships, we should focus on that sort of thing.
+    * Not looking for long term funding sources, but what will get us up and running.
+* What motivates people to back us instead of going elsewhere?
+    * There isn't another option right now.
+        * NB doesnt count
+        * DU is only for women and also full
+* Tom has a mailchimp and is going to put a form on the site.
+* Viv is going to make some membership questionaire stuff
+
+Discussions
+===========
+
+Slack
+-----
+Started last week because Tom thought it was a good idea to not use IRC because reasons
+
+blueminder likes slack. rooms for each wg, shouldn't remove IRC until we land so that we can have a noninvite place, but should keep things for the WGs in Slack. Tom +1s. Biggest thing is not needing to register. Accessibility is ++
+
+Badg asks about mirroring general channel to IRC, tom is going to archive the #nil the channel
+
+Tom thinks we should keep general channel as the main offtopic area for non-irssi nerds to prevent exclusion from our community
+
+Tom: Having light registration policy means that we can have a more comfortable community because we don't run the risk of weev or one of his friends are going to show up and be a total jackass until someone notices. Accessiblity parity between physical space and our internetspaces. The ability for jerks to show up has a chilling affect on discourse (not the software). We can automate Slack membership in to the membership process, and it all makes a lot of sense. Very porous wall where if someone wants to be invited they are invited.
+
+Tom: IRC == "office hours" "support desk", etc? Not our space, just a public space associated with us.
+* blueminder: yes
+
+viv: how do we have nontechnical people say hi if IRC is that space?
+* tom: contact email, discourse, etc
+
+Tom: Just because things are a part of hackerspace culture doesn't make them good. IRC is a good case. 
+
+Reevaluate after we get discourse (lights fire under rrix's ass)
+
+Loomio
+------
+
+Tom thinks Loomio is awesome. You should know about it. It's like liquid democracy with a real UI. http://en.wikipedia.org/wiki/LiquidFeedback
+
+We should deploy this, and it's nuanced enough to be useful. It can show difference between "FUCK NO" and "I don't like this little part."
+
+rrix is gonna deploy this after discourse
+
+Fuzebox
+-------
+
+Badg: Alternative to hangouts, does anyone want to test it?
+
+Better representation of an in person meeting, can bring in nonvideo content, etc
+
+Schedule meetings and you get a URL in advance, on slack or discourse or agenda or blaa
+
+Fuzebox Light runs in browser, let's try it out next week. Badg will host it and there will be a link to click. Badg will create a thursday test meeting, we can chat with Badg's wall.
+
+Action Items
+============
+* TOM preparing LLC filing papers
+* BLUEMINDER TALKING TO LEGAL COUNCIL ABOUT LLC AND B CORP REQUIREMENTS
+* rrix to deploy shit (specifically: Discourse, Loomio)
+* badg is gonna run a test meeting using Fuzebox, and we'll hopefully use it for the main meeting next week
+* Add things to next week's agenda
+
+keyparty, tom was the only one who showed up :(
