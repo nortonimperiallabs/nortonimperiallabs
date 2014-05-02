@@ -1,0 +1,175 @@
+NIL Meeting 01 May 2014 20:11-21:41
+===================================
+
+Attendees
+---------
+
+* vivz (Vivienne)
+* tylerhenthorn (Tyler)
+* robbiet480 (Robie)
+* creativetaboo (Madelynne)
+* jimgress (Jim)
+* rrix (Ryan)
+* flamsmark via hangouts (Tom)
+
+Last Week's Meeting Minutes
+---------------------------
+
+Merged in to Master
+
+Accounting WG
+-------------
+
+* No updates, cant do anything until incorporated
+
+Branding WG
+-----------
+
+* vivz and madelynne to be DRI for branding
+* vivz and jim are going to break out and talk about improving the logo
+
+Funding WG
+----------
+
+* Madelynne: We should start paying in dues to keep people invested and build up starting capital
+    * We could raise a bunch on crowdfunding, but everyone involved should be paying in dues once we decide what the membership tiers are
+* Madelynne: Rent at Nosebridge is a good figure for what we'll need. That is currently 6000$ for 2500sqft.
+* Have a pro-bono real estate agent (Kalin) through Robie
+* Want to have 12 months of rent + 5k out the door for runway
+	* Costs for crowdfunding production as well.
+* Anything over 50k is a *lot* harder to crowdfund
+	* We could get six months of space instead of 12 months
+		* Would need to be able to fund ourselves after six months, though
+		* Enough hackerspace peeps and startup peeps to make this work
+		* Sponsorship matching
+		* 75 members at 85$/month
+		
+Legal WG
+--------
+
+* B-corp or LLC or 50c3 discussion
+	* 501c3 => B-corp is a *lot* easier than B-corp => 501c3.
+	* A lot easier to raise funds
+	* We can be have a fiscal sponsor, 501c3 umbrella org until we can get on-board.
+		* SchoolFactory
+		* Tom: DOn't want to do sponsor or school factory. Easy to get the filing expedited with a matching donations or crowdfunding or something.
+	* Jim + Tom to ensure 501c3 paperwork is filed.
+	* Need three officers
+	* File and mail paperwork for incorporations
+		* Courier or such to get it up to Sacramento
+		* USPS <- We're going to do that
+	* Process for 501c3:
+		* Form a california non-profit public-benefit corporation
+			* Madelynne filled this out already
+		* Incorporate with incorporators
+		* Congrats, you're a 501c3
+		* They had off to board
+		* File form 2013 paper with the IRS
+		* Wait
+		* Congrats, people can give us money
+	* 'freeregisteredagent.com' to be the LLC registered agents
+		* Apparently *not* a scam?
+	* Need two copies of the articles of incorporation
+	* 'STEM education', we're raising funds as a 501c3, etc, on 1023
+	* File an EIN during business hours online
+		* Gob't agents fulfill each HTTP request by hand in triplicate
+	* Bank account ASAP as soon as we are a corporation
+	* Crowdtilt Verification process needs to be fleshed out
+
+Community WG
+------------
+
+* Values Statement
+	* Reached consensus on values statement, pending Tom's changes.
+		* Tom to make the changes and then merge them
+
+Crowdfunding WG
+---------------
+
+* Scary questionnaire
+* Madelynne and Vivz to get together and powwow on the final document from [this questionnaire][1]
+* Timeline
+	* August: Campaign Opens
+	* September: Campaign Closes
+	* Spring: Doors open
+* If we can't get our crap together in three months for the campaign, we should go home.
+* As a team, we should have 1/3 of the funding accounted for on day one from friends and family and businesses and other hackerspaces
+* Aim low on the public goal, but have an internal goal that is much higher
+
+Decision Making WG
+------------------
+
+* Tom to take over the DMWG
+* Actionable items:
+	* Tom to write down decision making process that is not uniform consensus of the council at a scheduled meeting by thursday evening
+	* Then people argue over it
+
+Infrastructure WG
+-----------------
+
+* PROPOSAL: Discourse to supersede Google Groups as the default async communication channel
+    * Consensed
+	* rrix to invite GGroups members to Discourse
+* Hosting discussion
+	* should we move to [iocoop][2]?
+	* Madelynne can get us Rax credits, going to figure that out tomorrow
+	* We can decide on where to host after that
+
+Real Estate WG
+--------------
+
+* Robbie uploaded a PDF of some real estate things
+	* Ryan needs to upload this somewhere besides slack and link to it here
+	* Holy shit, industrial is cheap
+* Need flex/industrial zoning
+* Kalin will negotiate too, she's p cool
+* Madelynne did not yet talk to freespace about getting free space
+* After we incorporate we'll ask for another pass on real estate from Kalin which we can actually work off of.
+
+Bylaws WG
+---------
+
+* Jim and Madelynne made a first pass at bylaws by stealing other spaces' laws
+* They wrote it while drunk, enjoy.
+* [bylaws link][3]
+* Let's aim to vote on it next week
+
+Website WG
+----------
+
+* Tom and Madelynne are working on the website
+	* Madelynne hates the current one and will design a new one
+	* Tom will implement it post-haste because CMSs are the devil
+* Next week
+
+Minuitae
+--------
+
+* Discussion re wiki
+	* Apparently gollum sucks, robie is going to make a mediawiki and administer it because it apparently doesn't suck.
+	* Discussion re location of minutes, etc, we need to determine a good workflow for where shit actually goes
+* Robie moves to move us back to IRC
+	* Ryan blocks, cites that's better platform, more accessible, works better, and integrates easily in to IRC clients.
+* Robie is going to be starting a german death metal band "Poopin' in the Machine Shop"
+* We can't have any of our funds stored as bitcoins.
+
+ACTION ITEMS
+------------
+
+* Madelynne to fill out and file the form to become a California non-profit public-benefit corporation
+* Madelynne to figure this out with Enrique
+* Madelynne to figure out if we can get Rax credits
+* Madelynne to talk to freespace about how to get free space
+* Madelynne hates the current website and will design a new one
+* Madelynne and Vivz to get together and powwow on the final document from
+    * Anyone else should fill this out as well.
+* Tom to finish the values statement and merge it in to master
+* Tom to write down decision making process that is not uniform consensus of the council at a scheduled meeting by thursday evening
+* Tom will implement the new website post-haste because CMSs are the devil
+* Ryan to invite GGroups members to Discourse
+* Ryan to upload the PDF from Kalin somewhere publicish
+* Ryan to post meeting minutes
+
+[1]: https://docs.google.com/forms/d/1R-BuzjDqF6IPIVl87lNUGQPfWecI2n-XgGAy7fqis4k/viewform?edit_requested=true
+[2]: http://IOCoop.org
+[3]: https://github.com/nortonimperiallabs/nortonimperiallabs/pull/14
