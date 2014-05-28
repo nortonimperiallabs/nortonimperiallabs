@@ -1,0 +1,81 @@
+NIL Meeting 20140529
+====================
+
+The next meeting is on: 2014-05-29, 20:00
+This agenda is for that meeting.
+
+The meeting happened at Runway Incubator.
+
+Getting started
+===============
+
+* Do we have a note-taker?
+* Take attendence.
+* Are the minutes from last week correct and approved?
+
+
+Working group reports
+=====================
+
+Accounting
+----------
+[Open money issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=money&page=1&state=open)  
+Responsible: Tom Lowenthal
+
+Branding
+--------
+[Open branding issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=branding&page=1&state=open)  
+Responsible: Madelynne and Vivz    
+
+Funding
+---------
+[Open community issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=funding&page=1&state=open)  
+Responsible: Enrique Santos
+
+Community
+---------
+[Open community issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=community&page=1&state=open)  
+Responsible: Tom Lowenthal  
+
+Crowd-funding campaign
+----------------------
+[Open funding issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=funding&page=1&state=open)  
+Responsible: Enrique Santos  
+
+Decision-making process
+-----------------------
+[Open decisions issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=decisions&page=1&state=open)  
+Responsible: Tom Lowenthal
+
+
+Incorporation
+-------------
+[Open incorporation issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=incorporation&page=1&state=open)  
+Responsible: Enrique Santos  
+
+
+Infrastructure
+--------------
+[Open infra issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=tech%2Finfra&page=1&state=open)  
+Responsible: Ryan Rix  
+
+Real estate
+-----------
+[Open space issues](https://github.com/nortonimperiallabs/doocracy/issues?labels=space&page=1&state=open)  
+Responsible: Robbie Trencheny  
+
+
+Decisions
+=========
+Hint: [open pull requests](https://github.com/nortonimperiallabs/nortonimperiallabs/pulls)
+
+
+Discussions
+===========
+
+Finishing
+=========
+
+* Key-party
+* Note-taker should put the minutes branch like `minutes/yyyy-mm-dd` and issue a pull request.
+* Note-taker should turn all action items into [doocracy issues](https://github.com/nortonimperiallabs/doocracy/issues).
