@@ -184,8 +184,8 @@ No update from Robie
 Decisions
 =========
 
-[A proposed charter for the community working group. #10](https://github.com/nortonimperiallabs/nortonimperiallabs/pull/10)
--------------------------------------------------------
+[A proposed charter for the community working group. #10][1]
+---------------------------------------------------------
 
 * Passed by consensus
 
@@ -194,3 +194,5 @@ Decisions
 
 * Passed by consensus pending changes
 * TODO rrix will do the language change and someone else will merge it in
+
+[1]: https://github.com/nortonimperiallabs/nortonimperiallabs/pull/10
