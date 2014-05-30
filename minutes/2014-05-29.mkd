@@ -82,8 +82,8 @@ No update from Robie
 Decisions
 =========
 
- [A proposed charter for the community working group. #10](https://github.com/nortonimperiallabs/nortonimperiallabs/pull/10)
- -------------------------------------------------------
+[A proposed charter for the community working group. #10](https://github.com/nortonimperiallabs/nortonimperiallabs/pull/10)
+-------------------------------------------------------
 
 * Passed by consensus
 
