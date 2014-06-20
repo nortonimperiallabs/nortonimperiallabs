@@ -14,9 +14,9 @@ NIL strives to inspire collaboration, creativity, and passion in the San Francis
 Communication
 =============
 
-* **IRC**: `#sfnil` on Freenode
-* **Mailing list**: actually a [Google group](https://groups.google.com/forum/#!forum/sfhackerspace)
+* **Mailing list**: actually a [Discourse forum](https://discussion.nortonimperiallabs.org)
 * **Twitter**: [@nil_sf](https://twitter.com/nil_sf)
+* **IRC/Group Chat**: [Ask us about Slack!](http://discussion.nortonimperiallabs.org/t/welcome-to-norton-imperial-labs/6)
 
 
 Meetings
