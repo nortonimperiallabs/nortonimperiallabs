@@ -1,0 +1,198 @@
+
+NIL 20140529
+============
+
+Attendees
+=========
+
+* rrix
+* robie
+* blueminder (moderator)
+* vivz (remote)
+* tyler (remote)
+* creativetaboo (remote)
+
+Working Group Reports
+=====================
+
+Accounting
+----------
+
+* Tom is not here
+* need bank account, need LLC blame Madelynne
+
+Branding
+--------
+
+* No update; vivz and jim need to work on logo still, another logo proposal would be great, but not from Jim because he's swamped
+* Madelynn has wireframes for the new site, will share those ASAP via Slack and Discourse
+* Talk on crowdfunding campaign and video/branding needs
+    * Robie has friends who can shoot video and such
+    * Vivz has a friend at ILM who can help too
+
+Funding
+-------
+
+* waiting on branding
+* waiting on accounting
+* Discussoin on when we should start looking for a space
+    * Timeline from last meeting, crowdfunding in fall, space open in spring
+    * Should talk about what *kind* of space, but not what *space*
+
+Community
+---------
+
+* Tom appears to be drowning in new job
+* Rrix will make sure CoC is voted on next week
+* TODO rrix will finish out the CoC this week
+* TODO rrix will add the CoC to the Agenda for next week
+
+Crowd-funding Campaign
+----------------------
+
+lol
+
+Decision-making Processing
+--------------------------
+
+* Tom is AFK
+* Madelynn: Bylaws! Jim and Madelynn put together a bunch of bylaws and no one has read it and gave feedback. We need to have that on the voting plan for next week
+* TODO READ THE BYLAWS
+* TODO rrix will add Bylaws vote to next week's agenda
+
+Incorporation
+-------------
+
+* 501c3 is in Madelynn's hand but if someone has more bandwidth they should take it. Madelynne will be going to Berlin for a month and it needs to get done or delegated before then.
+* If in a week it's not done, give it to Enrique to get done
+
+Infrastructure
+--------------
+
+* rrix got discourse email working. Computers are bullshit!
+    * From: Norton Imperial Labs : Discussion <contact@nortonimperiallabs.org> -> From: Norton Imperial Labs Discussion <contact@nortonimperiallabs.org>
+* TODO rrix to triage infra tickets
+* TODO tyler to start up loomio
+
+Real Estate
+-----------
+
+No update from Robie
+
+Decisions
+=========
+
+[A proposed charter for the community working group. #10](https://github.com/nortonimperiallabs/nortonimperiallabs/pull/10)
+-------------------------------------------------------
+
+* Passed by consensus
+
+[Values statement #7](https://github.com/nortonimperiallabs/nortonimperiallabs/pull/7)
+---------------------
+
+* Passed by consensus pending changes
+* TODO rrix will do the language change and someone else will merge it in
+
+
+* MEETING with Weekly NIL meeting 				    :MEETING:
+  :LOGBOOK:
+  CLOCK: [2014-05-29 Thu 20:22]
+  :END:
+[2014-05-29 Thu 20:21]
+
+
+NIL 20140529
+============
+
+Attendees
+=========
+
+* rrix
+* robie
+* blueminder (moderator)
+* vivz (remote)
+* tyler (remote)
+* creativetaboo (remote)
+
+Working Group Reports
+=====================
+
+Accounting
+----------
+
+* Tom is not here
+* need bank account, need LLC blame Madelynne
+
+Branding
+--------
+
+* No update; vivz and jim need to work on logo still, another logo proposal would be great, but not from Jim because he's swamped
+* Madelynn has wireframes for the new site, will share those ASAP via Slack and Discourse
+* Talk on crowdfunding campaign and video/branding needs
+    * Robie has friends who can shoot video and such
+    * Vivz has a friend at ILM who can help too
+
+Funding
+-------
+
+* waiting on branding
+* waiting on accounting
+* Discussoin on when we should start looking for a space
+    * Timeline from last meeting, crowdfunding in fall, space open in spring
+    * Should talk about what *kind* of space, but not what *space*
+
+Community
+---------
+
+* Tom appears to be drowning in new job
+* Rrix will make sure CoC is voted on next week
+* TODO rrix will finish out the CoC this week
+* TODO rrix will add the CoC to the Agenda for next week
+
+Crowd-funding Campaign
+----------------------
+
+lol
+
+Decision-making Processing
+--------------------------
+
+* Tom is AFK
+* Madelynn: Bylaws! Jim and Madelynn put together a bunch of bylaws and no one has read it and gave feedback. We need to have that on the voting plan for next week
+* TODO READ THE BYLAWS
+* TODO rrix will add Bylaws vote to next week's agenda
+
+Incorporation
+-------------
+
+* 501c3 is in Madelynn's hand but if someone has more bandwidth they should take it. Madelynne will be going to Berlin for a month and it needs to get done or delegated before then.
+* If in a week it's not done, give it to Enrique to get done
+
+Infrastructure
+--------------
+
+* rrix got discourse email working. Computers are bullshit!
+    * From: Norton Imperial Labs : Discussion <contact@nortonimperiallabs.org> -> From: Norton Imperial Labs Discussion <contact@nortonimperiallabs.org>
+* TODO rrix to triage infra tickets
+* TODO tyler to start up loomio
+
+Real Estate
+-----------
+
+No update from Robie
+
+Decisions
+=========
+
+[A proposed charter for the community working group. #10][1]
+---------------------------------------------------------
+
+* Passed by consensus
+
+[Values statement #7](https://github.com/nortonimperiallabs/nortonimperiallabs/pull/7)
+---------------------
+
+* Passed by consensus pending changes
+* TODO rrix will do the language change and someone else will merge it in
+
+[1]: https://github.com/nortonimperiallabs/nortonimperiallabs/pull/10
